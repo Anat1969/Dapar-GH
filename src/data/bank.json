@@ -1,0 +1,6038 @@
+[
+ {
+  "id": "c1582a2c-c303-51dd-a926-53f17485c940",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"שגרתי\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מפתיע",
+   "רגיל וקבוע",
+   "נדיר",
+   "מסוכן"
+  ],
+  "correct_index": 1,
+  "explanation": "\"שגרתי\" פירושו רגיל וקבוע. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "c9c28c36-402d-5888-aa22-f3b6359450d4",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"מתון\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "אדיש",
+   "מאופק, לא קיצוני",
+   "חריף",
+   "מהיר"
+  ],
+  "correct_index": 1,
+  "explanation": "\"מתון\" פירושו מאופק, לא קיצוני. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "938c35f4-becb-593f-a1d4-50db75343c01",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"חיוני\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מלא חיים",
+   "הכרחי",
+   "שולי",
+   "זמני"
+  ],
+  "correct_index": 1,
+  "explanation": "\"חיוני\" פירושו הכרחי. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "506bae39-b055-5aef-a672-508098a4a355",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"עמום\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "חזק",
+   "לא ברור",
+   "חדש",
+   "חד"
+  ],
+  "correct_index": 1,
+  "explanation": "\"עמום\" פירושו לא ברור. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1254955b-de54-5e7c-a2fe-a18268854313",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"להפריך\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "להראות שטענה שגויה",
+   "לחזק טענה",
+   "לחזור על טענה",
+   "להסתיר טענה"
+  ],
+  "correct_index": 0,
+  "explanation": "\"להפריך\" פירושו להראות שטענה שגויה. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "76a57049-0785-51aa-a895-cc581859feb8",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"שאפתני\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "בעל מטרות גבוהות",
+   "זהיר",
+   "עצלן",
+   "ביישן"
+  ],
+  "correct_index": 0,
+  "explanation": "\"שאפתני\" פירושו בעל מטרות גבוהות. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "ecd53334-2451-5e8a-a397-9361fcdb8e55",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 1,
+  "prompt": "מה פירוש המילה \"לשער\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "למדוד בדיוק",
+   "לשכוח",
+   "לסגור",
+   "להעריך בלי ודאות"
+  ],
+  "correct_index": 3,
+  "explanation": "\"לשער\" פירושו להעריך בלי ודאות. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "359e231f-fe58-5ad4-a83b-93b97ea0635a",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"להתמיד\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "להתלונן",
+   "להתחיל מחדש",
+   "להמשיך בעקביות",
+   "להפסיק באמצע"
+  ],
+  "correct_index": 2,
+  "explanation": "\"להתמיד\" פירושו להמשיך בעקביות. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "a3ff40b5-4ac0-50ea-a99a-1522f9931c13",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"תמציתי\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מצחיק",
+   "קצר וממוקד",
+   "ארוך ומפורט",
+   "מבולבל"
+  ],
+  "correct_index": 1,
+  "explanation": "\"תמציתי\" פירושו קצר וממוקד. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "69f1e486-cd3a-57b8-a0af-3b34aa77f566",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"פזיז\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "ממהר בלי לחשוב",
+   "שקול",
+   "איטי",
+   "שקט"
+  ],
+  "correct_index": 0,
+  "explanation": "\"פזיז\" פירושו ממהר בלי לחשוב. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9dad74ff-ae17-51d2-a666-145f0ad0d620",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"מעורפל\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מסודר",
+   "מדויק",
+   "מואר",
+   "לא ברור ולא חד"
+  ],
+  "correct_index": 3,
+  "explanation": "\"מעורפל\" פירושו לא ברור ולא חד. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "fb5cbff3-f7f4-5287-abad-2c343443e8da",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"סותר\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "תואם",
+   "משלים",
+   "מנוגד",
+   "דומה"
+  ],
+  "correct_index": 2,
+  "explanation": "\"סותר\" פירושו מנוגד. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "8d3aab16-a63f-521b-aebe-53e8187d75e7",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"מכריע\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "קובע את התוצאה",
+   "חסר חשיבות",
+   "מבלבל",
+   "מוקדם"
+  ],
+  "correct_index": 0,
+  "explanation": "\"מכריע\" פירושו קובע את התוצאה. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9ae23bfe-6699-5b9f-ab61-632c4e5067e9",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "אוצר מילים",
+  "difficulty": 2,
+  "prompt": "מה פירוש המילה \"להקנות\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "להסתיר",
+   "לשכוח",
+   "לקנות",
+   "ללמד, להעניק ידע"
+  ],
+  "correct_index": 3,
+  "explanation": "\"להקנות\" פירושו ללמד, להעניק ידע. כשלא בטוחים, מציבים כל אפשרות במשפט קצר ובודקים שהמשמעות נשמרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "94269700-f23b-5396-a6a7-afebe55c733c",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הפכים",
+  "difficulty": 1,
+  "prompt": "מה ההפך של \"נדיב\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "טוב לב",
+   "עשיר",
+   "שמח",
+   "קמצן"
+  ],
+  "correct_index": 3,
+  "explanation": "ההפך של \"נדיב\" הוא \"קמצן\". הפך נמצא על אותו ציר משמעות, בקצה השני. מילה קרובה במשמעות היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "66ad8fbf-4512-5a4c-a0e5-a27951842c0b",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הפכים",
+  "difficulty": 1,
+  "prompt": "מה ההפך של \"זמני\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "קצר",
+   "ישן",
+   "מהיר",
+   "קבוע"
+  ],
+  "correct_index": 3,
+  "explanation": "ההפך של \"זמני\" הוא \"קבוע\". הפך נמצא על אותו ציר משמעות, בקצה השני. מילה קרובה במשמעות היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "8088c432-9c1a-56ec-abb4-bb1f939a3641",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הפכים",
+  "difficulty": 1,
+  "prompt": "מה ההפך של \"מופנם\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מוחצן",
+   "שקט",
+   "חכם",
+   "עצוב"
+  ],
+  "correct_index": 0,
+  "explanation": "ההפך של \"מופנם\" הוא \"מוחצן\". הפך נמצא על אותו ציר משמעות, בקצה השני. מילה קרובה במשמעות היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9516dd51-e07c-55b0-aee0-43719fd94708",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הפכים",
+  "difficulty": 2,
+  "prompt": "מה ההפך של \"להרחיב\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "להסביר",
+   "לצמצם",
+   "לפרט",
+   "להגדיל"
+  ],
+  "correct_index": 1,
+  "explanation": "ההפך של \"להרחיב\" הוא \"לצמצם\". הפך נמצא על אותו ציר משמעות, בקצה השני. מילה קרובה במשמעות היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "71f8dfb9-d8c9-5001-ae86-daf3217da1ee",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הפכים",
+  "difficulty": 2,
+  "prompt": "מה ההפך של \"שקוף\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "צלול",
+   "אטום",
+   "דק",
+   "נקי"
+  ],
+  "correct_index": 1,
+  "explanation": "ההפך של \"שקוף\" הוא \"אטום\". הפך נמצא על אותו ציר משמעות, בקצה השני. מילה קרובה במשמעות היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "02d89333-dffa-52a1-a75f-856472f3e2f8",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הפכים",
+  "difficulty": 2,
+  "prompt": "מה ההפך של \"מוחשי\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "ממשי",
+   "כבד",
+   "מופשט",
+   "גדול"
+  ],
+  "correct_index": 2,
+  "explanation": "ההפך של \"מוחשי\" הוא \"מופשט\". הפך נמצא על אותו ציר משמעות, בקצה השני. מילה קרובה במשמעות היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "610db5ad-4882-5bf8-aea9-b0157589b571",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"מספריים\" לבין \"גזירה\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "אותה תכונה בדרגה חזקה יותר",
+   "פריט והקבוצה שהוא שייך אליה",
+   "כלי והפעולה שעושים בו",
+   "סיבה ותוצאה"
+  ],
+  "correct_index": 2,
+  "explanation": "מספריים : גזירה הוא יחס של כלי והפעולה שעושים בו. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "064edf06-9c4c-5fc5-a3f8-8aea99c9b266",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"גלגל\" לבין \"מכונית\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "צורך ומה שממלא אותו",
+   "פריט והקבוצה שהוא שייך אליה",
+   "בעל מקצוע ומקום העבודה שלו",
+   "חלק ושלם"
+  ],
+  "correct_index": 3,
+  "explanation": "גלגל : מכונית הוא יחס של חלק ושלם. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "00b4283c-c63d-5d5b-a5c9-220c80c8a1e3",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"תפוח\" לבין \"פרי\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "פריט והקבוצה שהוא שייך אליה",
+   "חלק ושלם",
+   "כלי והפעולה שעושים בו",
+   "צורך ומה שממלא אותו"
+  ],
+  "correct_index": 0,
+  "explanation": "תפוח : פרי הוא יחס של פריט והקבוצה שהוא שייך אליה. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1a1a1606-2634-57ca-a2dd-b1faffa69be1",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"גשם\" לבין \"שיטפון\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "סיבה ותוצאה",
+   "בעל מקצוע ומקום העבודה שלו",
+   "אותה תכונה בדרגה חזקה יותר",
+   "פריט והקבוצה שהוא שייך אליה"
+  ],
+  "correct_index": 0,
+  "explanation": "גשם : שיטפון הוא יחס של סיבה ותוצאה. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "f67309b0-b614-5624-af74-2df0c1ef61b4",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"חם\" לבין \"לוהט\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "אותה תכונה בדרגה חזקה יותר",
+   "חלק ושלם",
+   "פריט והקבוצה שהוא שייך אליה",
+   "כלי והפעולה שעושים בו"
+  ],
+  "correct_index": 0,
+  "explanation": "חם : לוהט הוא יחס של אותה תכונה בדרגה חזקה יותר. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "a4026d15-bd35-500e-a2f8-f51c0f4dabd5",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"טבח\" לבין \"מטבח\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "חלק ושלם",
+   "בעל מקצוע ומקום העבודה שלו",
+   "כלי והפעולה שעושים בו",
+   "אותה תכונה בדרגה חזקה יותר"
+  ],
+  "correct_index": 1,
+  "explanation": "טבח : מטבח הוא יחס של בעל מקצוע ומקום העבודה שלו. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "d48afc46-a7ac-50b2-a1ef-978ae90bbb74",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"צמא\" לבין \"שתייה\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "סיבה ותוצאה",
+   "צורך ומה שממלא אותו",
+   "אותה תכונה בדרגה חזקה יותר",
+   "פריט והקבוצה שהוא שייך אליה"
+  ],
+  "correct_index": 1,
+  "explanation": "צמא : שתייה הוא יחס של צורך ומה שממלא אותו. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "c164a3c0-ac3e-55ba-a9f9-4cc7a3b72e86",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"דף\" לבין \"ספר\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "אותה תכונה בדרגה חזקה יותר",
+   "סיבה ותוצאה",
+   "חלק ושלם",
+   "פריט והקבוצה שהוא שייך אליה"
+  ],
+  "correct_index": 2,
+  "explanation": "דף : ספר הוא יחס של חלק ושלם. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "508cad79-76ec-55cb-ab72-7857f128aaa7",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"נשר\" לבין \"ציפור\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "פריט והקבוצה שהוא שייך אליה",
+   "חלק ושלם",
+   "בעל מקצוע ומקום העבודה שלו",
+   "צורך ומה שממלא אותו"
+  ],
+  "correct_index": 0,
+  "explanation": "נשר : ציפור הוא יחס של פריט והקבוצה שהוא שייך אליה. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "c135bacc-bdbe-521d-a970-f2d0decc417d",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "סוגי יחסים",
+  "difficulty": 1,
+  "prompt": "מה היחס בין \"עייף\" לבין \"מותש\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "חלק ושלם",
+   "אותה תכונה בדרגה חזקה יותר",
+   "כלי והפעולה שעושים בו",
+   "בעל מקצוע ומקום העבודה שלו"
+  ],
+  "correct_index": 1,
+  "explanation": "עייף : מותש הוא יחס של אותה תכונה בדרגה חזקה יותר. באנלוגיות, קודם מנסחים את היחס במשפט, ורק אז מחפשים זוג עם אותו משפט.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "a9074708-2e09-52a4-adf4-6e6689c3625e",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "מילות קישור",
+  "difficulty": 1,
+  "prompt": "מה מסמנת מילת הקישור \"אולם\" במשפט?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "תוצאה של מה שנאמר",
+   "דוגמה",
+   "הוספה באותו כיוון",
+   "ניגוד למה שנאמר קודם"
+  ],
+  "correct_index": 3,
+  "explanation": "\"אולם\" מסמנת ניגוד למה שנאמר קודם. בהשלמת משפטים, מילת הקישור קובעת את כיוון המשפט עוד לפני שקוראים את האפשרויות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "bfd88de9-10cb-5932-ad85-9ee23b6fd0f1",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "מילות קישור",
+  "difficulty": 1,
+  "prompt": "מה מסמנת מילת הקישור \"לכן\" במשפט?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "הסתייגות",
+   "דוגמה",
+   "תוצאה של מה שנאמר קודם",
+   "ניגוד"
+  ],
+  "correct_index": 2,
+  "explanation": "\"לכן\" מסמנת תוצאה של מה שנאמר קודם. בהשלמת משפטים, מילת הקישור קובעת את כיוון המשפט עוד לפני שקוראים את האפשרויות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "aae293c8-2701-5898-ab8a-82215412d6f6",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "מילות קישור",
+  "difficulty": 1,
+  "prompt": "מה מסמנת מילת הקישור \"יתרה מזאת\" במשפט?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "סיכום",
+   "הוספה וחיזוק באותו כיוון",
+   "ניגוד",
+   "תוצאה"
+  ],
+  "correct_index": 1,
+  "explanation": "\"יתרה מזאת\" מסמנת הוספה וחיזוק באותו כיוון. בהשלמת משפטים, מילת הקישור קובעת את כיוון המשפט עוד לפני שקוראים את האפשרויות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "acb0e116-63ea-5bb7-a006-4318c79fa04d",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "מילות קישור",
+  "difficulty": 1,
+  "prompt": "מה מסמנת מילת הקישור \"למרות\" במשפט?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "הגדרה",
+   "משהו קרה אף שהיה צפוי ההפך",
+   "דוגמה",
+   "סיבה ישירה"
+  ],
+  "correct_index": 1,
+  "explanation": "\"למרות\" מסמנת משהו קרה אף שהיה צפוי ההפך. בהשלמת משפטים, מילת הקישור קובעת את כיוון המשפט עוד לפני שקוראים את האפשרויות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "492cf9eb-d810-5cca-aa89-5e5550a665c1",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "מילות קישור",
+  "difficulty": 1,
+  "prompt": "מה מסמנת מילת הקישור \"כלומר\" במשפט?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "הסבר במילים אחרות",
+   "ניגוד",
+   "תוצאה",
+   "הוספת טענה חדשה"
+  ],
+  "correct_index": 0,
+  "explanation": "\"כלומר\" מסמנת הסבר במילים אחרות. בהשלמת משפטים, מילת הקישור קובעת את כיוון המשפט עוד לפני שקוראים את האפשרויות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "521e77b6-a700-59d3-a776-1ece56f4eee0",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "מילות קישור",
+  "difficulty": 1,
+  "prompt": "מה מסמנת מילת הקישור \"לדוגמה\" במשפט?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מסקנה",
+   "מקרה פרטי שממחיש טענה",
+   "ניגוד",
+   "הסתייגות"
+  ],
+  "correct_index": 1,
+  "explanation": "\"לדוגמה\" מסמנת מקרה פרטי שממחיש טענה. בהשלמת משפטים, מילת הקישור קובעת את כיוון המשפט עוד לפני שקוראים את האפשרויות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "2e8955c5-5eaa-52ca-acef-2b2b0762d4b9",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הבנת הנקרא",
+  "difficulty": 1,
+  "prompt": "מה כדאי לעשות לפני קריאת קטע בהבנת הנקרא?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "לנחש תשובה ואז לקרוא",
+   "לקרוא רק את השורה הראשונה",
+   "לקרוא את הקטע פעמיים",
+   "לקרוא את השאלה, כדי לדעת מה מחפשים"
+  ],
+  "correct_index": 3,
+  "explanation": "קריאת השאלה קודם ממקדת את הקריאה. כך יודעים איזה מידע לחפש בקטע.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9edbdabf-e90b-5e3a-a7b7-cd3c0d5c3158",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הבנת הנקרא",
+  "difficulty": 1,
+  "prompt": "בשאלת הבנת הנקרא, מאיפה עונים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מתוך מה שכתוב בקטע בלבד",
+   "מהידע הכללי",
+   "ממה שנשמע הגיוני",
+   "מהכותרת בלבד"
+  ],
+  "correct_index": 0,
+  "explanation": "עונים מתוך הטקסט, לא מתוך הידע הכללי. תשובה נכונה בעולם אבל לא כתובה בקטע היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "2219a878-6ec0-56d5-a305-a31deb415423",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הבנת הנקרא",
+  "difficulty": 1,
+  "prompt": "בהשלמת משפט, מה בודקים באפשרות?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "רק משמעות",
+   "רק דקדוק",
+   "רק את אורך המילה",
+   "גם התאמה דקדוקית וגם משמעות"
+  ],
+  "correct_index": 3,
+  "explanation": "אפשרות טובה מתאימה גם בדקדוק (מין, מספר, זמן) וגם במשמעות. בודקים את שני הדברים יחד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "fe1e8053-9c96-5a78-a3a9-7e13e72de6a8",
+  "domain": "verbal",
+  "layer": "knowledge",
+  "skill": "הבנת הנקרא",
+  "difficulty": 1,
+  "prompt": "מה ההבדל בין \"מסקנה\" לבין \"פרט\" בקטע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מסקנה תמיד במשפט הראשון",
+   "פרט תמיד בסוף הקטע",
+   "אין הבדל",
+   "מסקנה נובעת מכמה פרטים, פרט הוא עובדה אחת"
+  ],
+  "correct_index": 3,
+  "explanation": "שאלת מסקנה דורשת לחבר כמה פרטים. שאלת פרט דורשת למצוא משפט אחד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "84df90b0-075d-5479-a33d-0b11942806e9",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "רופא : מרפאה. איזה זוג בנוי באותו יחס, ולמה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מורה : בית ספר, כי שניהם בעל מקצוע ומקום עבודתו",
+   "מורה : תלמיד, כי שניהם אנשים",
+   "תרופה : מחלה, כי שניהם קשורים לבריאות",
+   "בית ספר : כיתה, כי שניהם מקומות"
+  ],
+  "correct_index": 0,
+  "explanation": "היחס הוא \"בעל מקצוע עובד במקום\". זוג שרק קשור לאותו נושא (בריאות, בית ספר) לא מספיק. היחס חייב להיות זהה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "8c97589d-8cb3-597b-a986-bb48e6ed9027",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "חם : לוהט. למה \"קר : קפוא\" מתאים, ו\"קר : חם\" לא?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי \"חם\" ו\"קר\" שניהם טמפרטורות",
+   "כי הפכים תמיד פסולים באנלוגיה",
+   "כי ביחס המקורי המילה השנייה היא דרגה חזקה של הראשונה",
+   "כי \"קפוא\" מילה ארוכה יותר"
+  ],
+  "correct_index": 2,
+  "explanation": "לוהט הוא חם מאוד. קפוא הוא קר מאוד. \"קר : חם\" הוא יחס של הפכים, יחס אחר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "4aae28b9-e143-54cf-a020-d4ba9575d56e",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "ציפור : להקה. מה הדרך הנכונה למצוא זוג באותו יחס?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "לחפש זוג שהמילה הראשונה בו מתחילה באותה אות",
+   "לחפש זוג שבו יש בעל חיים",
+   "לבחור את הזוג עם המילים הקצרות",
+   "לנסח משפט: \"הרבה ציפורים יחד הן להקה\", ולבדוק אותו על כל זוג"
+  ],
+  "correct_index": 3,
+  "explanation": "משפט קשר הופך את היחס למבחן. \"הרבה עצים יחד הם יער\" עובר את המבחן. \"ציפור : קן\" לא.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "4bf9a0e7-073e-5145-aaef-daba111f130d",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "מסמר : פטיש. איזה זוג בנוי באותו יחס?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מסמר : קיר, כי מסמר נכנס לקיר",
+   "בורג : מברג, כי הכלי השני מכניס את הראשון",
+   "מסור : עץ, כי מסור הוא כלי",
+   "פטיש : נגר, כי נגר משתמש בפטיש"
+  ],
+  "correct_index": 1,
+  "explanation": "היחס הוא \"הכלי השני מכניס את הראשון\". מסמר נכנס עם פטיש, ובורג נכנס עם מברג.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "2245a17d-3208-5372-a4cf-bbf293597d8c",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "הפכים",
+  "difficulty": 2,
+  "prompt": "למה \"קמצן\" אינו ההפך של \"עשיר\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי קמצן הוא שם עצם",
+   "כי ההפך של עשיר הוא נדיב",
+   "כי שתי המילים חיוביות",
+   "כי קמצנות עוסקת בנכונות לתת, ועושר עוסק בכמות הכסף"
+  ],
+  "correct_index": 3,
+  "explanation": "הפך נמצא על אותו ציר. ההפך של עשיר הוא עני. ההפך של קמצן הוא נדיב.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "c4bebc35-4aa9-5dc7-a46c-978d12ac78db",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "הפכים",
+  "difficulty": 2,
+  "prompt": "למה \"שקט\" אינו ההפך המדויק של \"עליז\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי לעליז אין הפך",
+   "כי שקט חיובי ועליז שלילי",
+   "כי שקט ועליז הן מילים נרדפות",
+   "כי עליז הוא מצב רוח, ושקט הוא עוצמת קול"
+  ],
+  "correct_index": 3,
+  "explanation": "ההפך של עליז הוא עצוב, באותו ציר של מצב רוח. מילה מציר אחר, גם אם \"מרגישה\" הפוכה, היא מלכודת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9a494c40-c6fb-5b9f-af58-0369835e01c0",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "מילות קישור",
+  "difficulty": 2,
+  "prompt": "במשפט \"הוא התאמן קשה, ____ הפסיד\", איזו מילה מתאימה, ולמה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "\"ולכן\", כי ההפסד נובע מהאימון",
+   "\"לדוגמה\", כי ההפסד הוא דוגמה",
+   "\"ובכל זאת\", כי יש ניגוד בין המאמץ לתוצאה",
+   "\"כלומר\", כי ההפסד מסביר את האימון"
+  ],
+  "correct_index": 2,
+  "explanation": "מאמץ אמור להוביל להצלחה. ההפסד מנוגד לציפייה, ולכן צריך מילת ניגוד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "29dfe8a5-e7c6-59e9-a1e7-ce5512295276",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "מילות קישור",
+  "difficulty": 2,
+  "prompt": "במשפט \"הכביש היה רטוב, ____ הנהגים האטו\", למה \"לכן\" מתאים ו\"אולם\" לא?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי \"לכן\" תמיד באה אחרי פסיק",
+   "כי ההאטה היא תוצאה של הכביש הרטוב, ולא ניגוד לו",
+   "כי \"אולם\" מילה גבוהה מדי",
+   "כי שתי המילים מתאימות באותה מידה"
+  ],
+  "correct_index": 1,
+  "explanation": "כביש רטוב הוא סיבה להאט. \"אולם\" מסמנת ניגוד, ואין כאן ניגוד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "732e9453-17d1-5de5-a0ed-94e9f34939cf",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "מילות קישור",
+  "difficulty": 2,
+  "prompt": "במשפט \"רוב הצמחים זקוקים לאור, ____ פטריות גדלות גם בחושך\", מה תפקיד המילה החסרה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "לחזור על הכלל במילים אחרות",
+   "להוסיף דוגמה לכלל",
+   "לסמן חריג לכלל שנאמר קודם",
+   "לסמן תוצאה של הכלל"
+  ],
+  "correct_index": 2,
+  "explanation": "הפטריות לא מתנהגות כמו רוב הצמחים. זה חריג, ולכן מתאימה מילה כמו \"אולם\" או \"לעומת זאת\".",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "b14251fc-2fa8-518e-a903-eec877c02286",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "הבנת הנקרא",
+  "difficulty": 2,
+  "prompt": "קטע: \"בעיר נפתחו שלושה גנים ציבוריים חדשים. מאז, מספר המבקרים בפארק הגדול ירד.\" איזו מסקנה נובעת מהקטע, ולמה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "אי אפשר לקבוע שהגנים החדשים הם הסיבה, כי הקטע מתאר רק שני דברים שקרו",
+   "הגנים החדשים גרמו לירידה, כי זה הגיוני",
+   "הפארק הגדול ייסגר, כי מעטים מבקרים בו",
+   "תושבי העיר לא אוהבים פארקים גדולים"
+  ],
+  "correct_index": 0,
+  "explanation": "הקטע מציג שני אירועים בזה אחר זה. הוא לא אומר שאחד גרם לשני. עונים מתוך הטקסט בלבד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "7375a71e-8f9d-5c24-a368-cc422254f194",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "הבנת הנקרא",
+  "difficulty": 2,
+  "prompt": "קטע: \"כל המשתתפים בסדנה קיבלו תעודה. דנה קיבלה תעודה.\" מה אפשר להסיק בוודאות?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "שדנה השתתפה בסדנה",
+   "שרק משתתפים מקבלים תעודה",
+   "שום דבר חדש על השתתפות דנה, כי ייתכן שקיבלה תעודה ממקום אחר",
+   "שדנה לא השתתפה בסדנה"
+  ],
+  "correct_index": 2,
+  "explanation": "הקטע אומר שמשתתפים מקבלים תעודה. הוא לא אומר שרק משתתפים מקבלים. זו טעות היפוך נפוצה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9e49e51e-d3ed-5462-a8ba-6b7d9455ccf8",
+  "domain": "verbal",
+  "layer": "understanding",
+  "skill": "השלמת משפטים",
+  "difficulty": 2,
+  "prompt": "במשפט \"הנאום היה ____, כל המשפטים בו קצרים וענייניים\", למה \"תמציתי\" מתאים יותר מ\"מרשים\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי \"תמציתי\" מילה גבוהה יותר",
+   "כי ההמשך מתאר קיצור וענייניות, וזו המשמעות של תמציתי",
+   "כי שתיהן מתאימות באותה מידה",
+   "כי \"מרשים\" שלילי"
+  ],
+  "correct_index": 1,
+  "explanation": "החלק השני של המשפט מסביר את החסר. מחפשים מילה שהמשמעות שלה היא בדיוק ההסבר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "2b2f73e7-4406-5fca-ac8c-fedf3ab92e58",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 1,
+  "prompt": "ציפור : קן  כמו  דבורה : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כוורת",
+   "דבש",
+   "פרח",
+   "עוקץ"
+  ],
+  "correct_index": 0,
+  "explanation": "היחס: בית של בעל החיים. ציפור : קן כמו דבורה : כוורת.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "4218e2bc-18d8-5d2b-ab9d-18734ebd518f",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 1,
+  "prompt": "ספר : ספרייה  כמו  תמונה : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "גלריה",
+   "צייר",
+   "צבע",
+   "מסגרת"
+  ],
+  "correct_index": 0,
+  "explanation": "היחס: המקום שבו מציגים או שומרים הרבה כאלה. ספר : ספרייה כמו תמונה : גלריה.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "a600f39b-f260-5a07-aab8-13239f54296a",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 1,
+  "prompt": "רעב : אוכל  כמו  עייפות : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "פיהוק",
+   "שינה",
+   "ערב",
+   "מיטה"
+  ],
+  "correct_index": 1,
+  "explanation": "היחס: צורך ומה שממלא אותו. רעב : אוכל כמו עייפות : שינה.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "e54fb220-ea10-5b39-a4e9-09d7e7bbf2fd",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 1,
+  "prompt": "שעון : זמן  כמו  מדחום : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מחלה",
+   "כספית",
+   "טמפרטורה",
+   "רופא"
+  ],
+  "correct_index": 2,
+  "explanation": "היחס: מכשיר ומה שהוא מודד. שעון : זמן כמו מדחום : טמפרטורה.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "d806b6c9-9902-52d5-a0a2-931567f35aea",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 1,
+  "prompt": "אצבע : יד  כמו  בוהן : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "ציפורן",
+   "רגל",
+   "הליכה",
+   "נעל"
+  ],
+  "correct_index": 1,
+  "explanation": "היחס: חלק ושלם. אצבע : יד כמו בוהן : רגל.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "086e2fa3-d633-5827-ada7-0b050e8f3691",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "חירש : שמיעה  כמו  עיוור : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "עין",
+   "משקפיים",
+   "חושך",
+   "ראייה"
+  ],
+  "correct_index": 3,
+  "explanation": "היחס: מי שחסר לו חוש, והחוש. חירש : שמיעה כמו עיוור : ראייה.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "30a29b75-cfd0-59d0-ac06-d02d3eabe926",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "זרע : עץ  כמו  ביצה : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "תרנגולת",
+   "קן",
+   "קליפה",
+   "ארוחה"
+  ],
+  "correct_index": 0,
+  "explanation": "היחס: שלב התחלה והשלב הבוגר. זרע : עץ כמו ביצה : תרנגולת.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "089f7695-9895-5ac9-a9ef-84f5b97c9ba2",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 1,
+  "prompt": "מקלדת : הקלדה  כמו  מברשת : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "קיר",
+   "צייר",
+   "צביעה",
+   "צבע"
+  ],
+  "correct_index": 2,
+  "explanation": "היחס: כלי והפעולה שעושים בו. מקלדת : הקלדה כמו מברשת : צביעה.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "445f1933-3381-596b-a620-6e6913978d57",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "בורג : מברג  כמו  מסמר : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "פטיש",
+   "קיר",
+   "ברזל",
+   "נגר"
+  ],
+  "correct_index": 0,
+  "explanation": "היחס: מה שנכנס, והכלי שמכניס אותו. בורג : מברג כמו מסמר : פטיש.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "1bf59a96-bdb3-5baf-a3ca-4c707d132403",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 3,
+  "prompt": "לחישה : צעקה  כמו  טפטוף : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "ענן",
+   "מבול",
+   "מטרייה",
+   "גשם"
+  ],
+  "correct_index": 1,
+  "explanation": "היחס: אותה תופעה בעוצמה חלשה ובעוצמה חזקה. לחישה : צעקה כמו טפטוף : מבול.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "33d7fcb1-6f2c-5b35-af35-957ebf9ca075",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 2,
+  "prompt": "מדבר : יובש  כמו  קוטב : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "צפון",
+   "דוב",
+   "קור",
+   "שלג"
+  ],
+  "correct_index": 2,
+  "explanation": "היחס: מקום והתכונה הבולטת שלו. מדבר : יובש כמו קוטב : קור.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "b3a5264e-6257-541c-a979-c2f68751b4ca",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 3,
+  "prompt": "מפה : נווט  כמו  תווים : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "פסנתר",
+   "שיר",
+   "קונצרט",
+   "נגן"
+  ],
+  "correct_index": 3,
+  "explanation": "היחס: מה שקורא בו בעל המקצוע כדי לעבוד. מפה : נווט כמו תווים : נגן.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "1aa6c03c-dc25-5149-a2bc-64cc395e1386",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 3,
+  "prompt": "טיוטה : חיבור  כמו  שרטוט : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "עיפרון",
+   "אדריכל",
+   "קיר",
+   "בניין"
+  ],
+  "correct_index": 3,
+  "explanation": "היחס: שלב תכנון והתוצר הסופי. טיוטה : חיבור כמו שרטוט : בניין.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "25ff2840-3691-5ad6-a5d6-4feb164629c4",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "אנלוגיות",
+  "difficulty": 3,
+  "prompt": "חוקר : השערה  כמו  שופט : ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "חוק",
+   "בית משפט",
+   "עורך דין",
+   "פסק דין"
+  ],
+  "correct_index": 3,
+  "explanation": "היחס: מה שמגיע אליו בעל התפקיד בסוף עבודתו. חוקר : השערה כמו שופט : פסק דין.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "0f344e4f-d962-56cb-a2bf-3a1649874c23",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 1,
+  "prompt": "למרות שהדרך הייתה ארוכה, המטיילים הגיעו ____.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "רעננים",
+   "ברגל",
+   "מאוחר מדי",
+   "עייפים"
+  ],
+  "correct_index": 0,
+  "explanation": "\"למרות\" מסמנת ניגוד. דרך ארוכה הייתה אמורה לעייף, ולכן ההשלמה מנוגדת: רעננים.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "c9fc814a-bee6-5abf-aa79-5fb75ee3cd16",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 1,
+  "prompt": "המחקר לא הצליח להוכיח את הטענה, ____ החוקרים המשיכו לבדוק אותה.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כלומר",
+   "ובכל זאת",
+   "ולכן",
+   "למשל"
+  ],
+  "correct_index": 1,
+  "explanation": "כישלון ההוכחה אמור לעצור את הבדיקה. ההמשך מנוגד לציפייה, ולכן \"ובכל זאת\".",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "c893cd29-d95f-5ac1-aa12-576a97c54998",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 1,
+  "prompt": "הוא לא קרא את ההוראות, ____ טעה כבר בשאלה הראשונה.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "לעומת זאת",
+   "ולכן",
+   "אף על פי כן",
+   "אלא"
+  ],
+  "correct_index": 1,
+  "explanation": "הטעות היא תוצאה של אי הקריאה. מילת תוצאה: \"ולכן\".",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "99203417-2a03-5a85-a509-f45a1600ef69",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 1,
+  "prompt": "החומר נראה קשה בהתחלה, אבל אחרי תרגול הוא הפך ____.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מאיים",
+   "מוכר",
+   "מסובך",
+   "רחוק"
+  ],
+  "correct_index": 1,
+  "explanation": "\"אבל\" מסמנת שינוי כיוון. קשה בהתחלה, ואחרי תרגול: ההפך, כלומר מוכר.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "ec93db87-a850-5659-a72f-0d1ef2cce37f",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 2,
+  "prompt": "ההסבר שלה היה כל כך ____, שאיש לא הבין מה היא מבקשת.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "קצר",
+   "משכנע",
+   "ברור",
+   "מעורפל"
+  ],
+  "correct_index": 3,
+  "explanation": "התוצאה (איש לא הבין) מגדירה את החסר: הסבר לא ברור, מעורפל.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "fcfdc921-0672-5a46-a68b-df152cc5bd02",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 2,
+  "prompt": "המנהל ____ את ההחלטה, ולכן היא לא תיכנס לתוקף.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "הסביר",
+   "ביטל",
+   "פרסם",
+   "אישר"
+  ],
+  "correct_index": 1,
+  "explanation": "אם ההחלטה לא תיכנס לתוקף, הפעולה שנעשתה בה היא ביטול.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "d9d9b6f3-e1c9-5dab-a519-1625f950bde6",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 2,
+  "prompt": "בניגוד לאחיו ה____, דני מעדיף לבלות את הערב לבד עם ספר.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "חברותי",
+   "קורא",
+   "מופנם",
+   "שקט"
+  ],
+  "correct_index": 0,
+  "explanation": "\"בניגוד\" דורשת תכונה הפוכה לבילוי לבד. ההפך הוא חברותי. \"מופנם\" דומה לדני ולא מנוגד לו.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "c6932e03-d7c9-57f4-a960-5e0a2a4cedf4",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "השלמת משפטים",
+  "difficulty": 3,
+  "prompt": "התוצאות היו ____: חלק מהנתונים תמכו בהשערה וחלק סתרו אותה.",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "לא חד משמעיות",
+   "מאכזבות",
+   "מהירות",
+   "מובהקות"
+  ],
+  "correct_index": 0,
+  "explanation": "אחרי הנקודתיים בא הסבר: תמיכה וסתירה יחד. כלומר תוצאות לא חד משמעיות.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "bcce878f-846d-575b-a82a-1919e9d5aa76",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 1,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "פסנתר",
+   "כינור",
+   "חליל",
+   "תזמורת"
+  ],
+  "correct_index": 3,
+  "explanation": "שלוש המילים הן כלי נגינה. תזמורת היא קבוצה של נגנים, לא כלי.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "edc67b85-331c-5628-a511-26586d1b9f00",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 1,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "כחול",
+   "ירוק",
+   "אדום",
+   "צבע"
+  ],
+  "correct_index": 3,
+  "explanation": "אדום, כחול וירוק הם צבעים. \"צבע\" הוא שם הקבוצה עצמה.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "623f3bf3-e6bc-5254-af1d-187e41aa6156",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 1,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "מאושר",
+   "עליז",
+   "שמח",
+   "עצוב"
+  ],
+  "correct_index": 3,
+  "explanation": "שלוש המילים מתארות מצב רוח טוב. עצוב הוא ההפך.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "dca5eb8a-d6b8-5e5d-a08b-b9a2827686bb",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 1,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "מסור",
+   "מברג",
+   "פטיש",
+   "נגר"
+  ],
+  "correct_index": 3,
+  "explanation": "שלושה כלים. נגר הוא בעל המקצוע שמשתמש בהם.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "e12b50d7-3709-550c-ac30-0d55fc93a300",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 2,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "נהר",
+   "גשר",
+   "אגם",
+   "ים"
+  ],
+  "correct_index": 1,
+  "explanation": "נהר, אגם וים הם גופי מים. גשר הוא מבנה מעל מים.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "2b688a6a-3fa6-5fbf-a7bd-bf3faecc32b0",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 2,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "במהירות",
+   "לאט",
+   "מהר",
+   "בחיפזון"
+  ],
+  "correct_index": 1,
+  "explanation": "שלוש המילים מתארות מהירות. לאט הוא ההפך.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "85c46f2d-8863-5260-a7f6-746150ddfc2c",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 2,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "לשמוע",
+   "להאזין",
+   "לדבר",
+   "להקשיב"
+  ],
+  "correct_index": 2,
+  "explanation": "שלוש הפעולות קשורות לקליטת קול. לדבר היא הפקת קול.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "87bf6029-5b10-5318-ad3a-1fc77f180ecf",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "יוצא דופן",
+  "difficulty": 3,
+  "prompt": "איזו מילה אינה שייכת לקבוצה?",
+  "instruction_text": "סמנו את המילה שאינה שייכת לקבוצה.",
+  "figure": null,
+  "options": [
+   "משולש",
+   "מחומש",
+   "ריבוע",
+   "עיגול"
+  ],
+  "correct_index": 3,
+  "explanation": "משולש, ריבוע ומחומש הם מצולעים עם צלעות ישרות. לעיגול אין צלעות.",
+  "source": "new",
+  "time_limit_seconds": 30
+ },
+ {
+  "id": "bdfebcca-eddc-50d0-af64-d169bee27987",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "הבנת הנקרא",
+  "difficulty": 1,
+  "prompt": "מחקר שנערך בשלושה בתי ספר מצא שתלמידים שישנו לפחות שמונה שעות בלילה ענו נכון על יותר שאלות במבחן בוקר. החוקרים ציינו שהמחקר לא בדק מה התלמידים אכלו בבוקר.\n\nמה החוקרים ציינו כמגבלה של המחקר?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "שהמחקר נערך רק בבית ספר אחד",
+   "שהמחקר לא בדק את ארוחת הבוקר",
+   "שהמבחן נערך בערב",
+   "ששינה של שמונה שעות מזיקה"
+  ],
+  "correct_index": 1,
+  "explanation": "המשפט השני בקטע אומר זאת במפורש. שאר האפשרויות סותרות את הקטע (שלושה בתי ספר, מבחן בוקר) או לא כתובות בו.",
+  "source": "new",
+  "time_limit_seconds": 90
+ },
+ {
+  "id": "30f51da7-8360-5355-a314-674cb666b869",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "הבנת הנקרא",
+  "difficulty": 2,
+  "prompt": "בעבר האמינו שכל הברבורים לבנים, כי איש באירופה לא ראה ברבור בצבע אחר. כשהגיעו חוקרים לאוסטרליה, הם מצאו ברבורים שחורים.\n\nמה הרעיון המרכזי של הקטע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "חוקרים אירופים לא היו זהירים",
+   "באוסטרליה יש יותר ברבורים מבאירופה",
+   "כלל שנבנה מתצפיות בלבד יכול להתגלות כשגוי",
+   "ברבורים שחורים נדירים מאוד"
+  ],
+  "correct_index": 2,
+  "explanation": "הקטע מראה כלל (\"כל הברבורים לבנים\") שהופרך בתצפית חדשה. שאר האפשרויות הן פרטים שלא כתובים בקטע.",
+  "source": "new",
+  "time_limit_seconds": 90
+ },
+ {
+  "id": "bf5d7979-1267-535f-ab46-ed2b9e3fcf49",
+  "domain": "verbal",
+  "layer": "application",
+  "skill": "הבנת הנקרא",
+  "difficulty": 3,
+  "prompt": "העירייה הציעה לסגור רחוב מרכזי לתנועת מכוניות. בעלי החנויות חששו שהקונים לא יגיעו. אחרי שנה, מספר הקונים ברחוב עלה, אך שתי חנויות שמכרו רהיטים כבדים נסגרו.\n\nאיזו טענה נתמכת בקטע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "הסגירה הועילה לרוב החנויות אך פגעה בחלק מהן",
+   "חששם של בעלי החנויות התברר כנכון לגמרי",
+   "העירייה תפתח את הרחוב מחדש",
+   "הסגירה פגעה בכל החנויות"
+  ],
+  "correct_index": 0,
+  "explanation": "הקטע מציג גם עלייה בקונים וגם סגירה של שתי חנויות. טענה שמכילה את שני הצדדים היא המדויקת.",
+  "source": "new",
+  "time_limit_seconds": 90
+ },
+ {
+  "id": "5eed9baa-a89c-51e9-add4-961fa2b7d09d",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "\"לפחות 3 תשובות\" פירושו:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3 תשובות או פחות",
+   "3 תשובות או יותר",
+   "בדיוק 3 תשובות",
+   "פחות מ-3 תשובות"
+  ],
+  "correct_index": 1,
+  "explanation": "\"לפחות\" קובע רצפה. 3 עומד בתנאי, וגם כל מספר גדול ממנו.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "7fb569a9-126f-5f2a-a90f-9f32ab271d37",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "\"לכל היותר 4 טעויות\" פירושו:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "4 טעויות או פחות",
+   "יותר מ-4 טעויות",
+   "4 טעויות או יותר",
+   "בדיוק 4 טעויות"
+  ],
+  "correct_index": 0,
+  "explanation": "\"לכל היותר\" קובע תקרה. 4 עומד בתנאי, וגם כל מספר קטן ממנו.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "e538d086-e386-5c9c-aad7-44ef4a4a856e",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "הוראה: \"סמנו את התשובה שאינה נכונה\". מה מחפשים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "את התשובה הארוכה",
+   "את כל התשובות הנכונות",
+   "את התשובה השגויה",
+   "את התשובה הנכונה"
+  ],
+  "correct_index": 2,
+  "explanation": "המילה \"אינה\" הופכת את המשימה. מסמנים אותה לפני הפתרון כדי לא לחפש את ההפך.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "3ffffaf5-1fe1-5093-a97a-f76fd27fb004",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "\"יותר מ-5\" כולל את 5?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כן, אבל רק אם 5 זוגי",
+   "לא, רק 6 ומעלה (במספרים שלמים)",
+   "כן, 5 ומעלה",
+   "תלוי בשאלה"
+  ],
+  "correct_index": 1,
+  "explanation": "\"יותר מ\" לא כולל את המספר עצמו. \"לפחות\" כן כולל.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "ef5f4356-3cb3-5734-a714-1f825e0d0989",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "\"פחות מ-3 טעויות\". האם 3 טעויות עומדות בתנאי?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "אי אפשר לדעת",
+   "כן",
+   "לא",
+   "רק אם הן מאותו סוג"
+  ],
+  "correct_index": 2,
+  "explanation": "\"פחות מ-3\" פירושו 0, 1 או 2. שלוש כבר לא עומד בתנאי.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "7e05f1e6-0bf2-5cf7-a3f0-889e848cd5c1",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "ברצף 4, 7, 1, 9, 5, מהו \"המספר השני מהסוף\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "1",
+   "5",
+   "7",
+   "9"
+  ],
+  "correct_index": 3,
+  "explanation": "סופרים מהסוף: הראשון מהסוף הוא 5, השני מהסוף הוא 9.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "3a2c3e52-81a1-577f-a889-38ffe2f93026",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "בקבוצה 2, 3, 4, 5, 8, אילו מספרים \"אינם זוגיים\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3 ו-5",
+   "2, 4 ו-8",
+   "רק 3",
+   "רק 5"
+  ],
+  "correct_index": 0,
+  "explanation": "\"אינם זוגיים\" הם האי זוגיים: 3 ו-5.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "58fd57d3-9c5d-56e0-a6c1-a8d36254af9d",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "מה עושים קודם כשמקבלים הוראה במבחן?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מדלגים על ההוראה וקוראים את השאלה",
+   "קוראים את כל ההוראה ומסמנים מילות מפתח",
+   "מתחילים לפתור מיד",
+   "קוראים רק את סוף ההוראה"
+  ],
+  "correct_index": 1,
+  "explanation": "קריאה מלאה וסימון מילים כמו \"לא\", \"לפחות\", \"בדיוק\", \"מתוך\" מונעים טעות הוראה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "c3cf6c33-e69a-51c0-a196-61a7024103ea",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "\"בדיוק 2\" פירושו:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "2 או פחות",
+   "בערך 2",
+   "2, לא פחות ולא יותר",
+   "2 או יותר"
+  ],
+  "correct_index": 2,
+  "explanation": "\"בדיוק\" לא משאיר מרווח. 1 או 3 לא עומדים בתנאי.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "2176511e-5f9c-56a5-a184-bc178db5328d",
+  "domain": "instructions",
+  "layer": "knowledge",
+  "skill": "מילות מפתח",
+  "difficulty": 1,
+  "prompt": "הוראה: \"מתוך המילים בשורה השנייה בלבד, סמנו...\". על מה עובדים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "על המילה השנייה בכל שורה",
+   "רק על המילים בשורה השנייה",
+   "על כל המילים",
+   "על השורה הראשונה והשנייה"
+  ],
+  "correct_index": 1,
+  "explanation": "\"מתוך\" ו\"בלבד\" מגבילים את הטווח. עובדים רק על מה שהוגדר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "cf7ed3c0-eb7a-5401-a288-35b7936842d7",
+  "domain": "instructions",
+  "layer": "understanding",
+  "skill": "מילות מפתח",
+  "difficulty": 2,
+  "prompt": "למה כדאי לסמן את המילה \"לא\" בהוראה לפני הפתרון?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי היא תמיד בסוף ההוראה",
+   "כי היא הופכת את מה שמחפשים",
+   "כי היא מקצרת את השאלה",
+   "כי היא מסמנת שאלה קלה"
+  ],
+  "correct_index": 1,
+  "explanation": "מילת שלילה מחליפה את המטרה. מי שמפספס אותה פותר נכון את השאלה הלא נכונה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "8312a1be-0ebb-5c1f-a03f-81348ed6dd5c",
+  "domain": "instructions",
+  "layer": "understanding",
+  "skill": "סוגי טעויות",
+  "difficulty": 2,
+  "prompt": "הוראה: \"סמנו את המילה שאינה שייכת\". עילאי בחר מילה ששייכת לקבוצה, למרות שזיהה נכון את הקבוצה. איזה סוג טעות זה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "ידע חסר",
+   "חישוב",
+   "זמן",
+   "הוראה שנקראה לא נכון"
+  ],
+  "correct_index": 3,
+  "explanation": "הוא ידע את התוכן, אבל ביצע משימה אחרת. זו טעות הוראה, והתרופה היא קריאה וסימון לפני פתרון.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "fb3dfb53-d010-5c99-a122-06fd49c1441f",
+  "domain": "instructions",
+  "layer": "understanding",
+  "skill": "מילות מפתח",
+  "difficulty": 2,
+  "prompt": "מה ההבדל בין \"לפחות אחד\" לבין \"בדיוק אחד\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "\"לפחות אחד\" מאפשר גם שניים ויותר, \"בדיוק אחד\" לא",
+   "אין הבדל",
+   "\"לפחות אחד\" מאפשר גם אפס",
+   "\"בדיוק אחד\" מאפשר גם אפס"
+  ],
+  "correct_index": 0,
+  "explanation": "\"לפחות\" פותח את הטווח כלפי מעלה. \"בדיוק\" סוגר אותו לערך אחד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "b52d5b8e-696b-55d7-ad7a-8fb705fba0bc",
+  "domain": "instructions",
+  "layer": "understanding",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 2,
+  "prompt": "הוראה בת שלושה שלבים: \"הכפילו, הוסיפו 2, חלקו ב-2\". למה לא כדאי לבצע אותה מהזיכרון?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי סדר הפעולות משנה את התוצאה, וקל לדלג על שלב",
+   "כי השלב הראשון לא חשוב",
+   "כי חילוק תמיד קשה",
+   "כי אפשר לבצע את השלבים בכל סדר"
+  ],
+  "correct_index": 0,
+  "explanation": "בהוראה רב שלבית מסמנים כל שלב ומבצעים לפי הסדר. החלפת סדר נותנת תוצאה אחרת.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "2d752a3e-f05a-529e-a646-a26cde6cd689",
+  "domain": "instructions",
+  "layer": "understanding",
+  "skill": "סוגי טעויות",
+  "difficulty": 2,
+  "prompt": "למה טעות הוראה נרשמת כסוג נפרד ולא כ\"ידע חסר\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי היא פחות חשובה",
+   "כי התרופה שונה: תרגול קריאה, לא לימוד חומר",
+   "כי היא לא נספרת בציון",
+   "כי היא קורית רק בתחום אחד"
+  ],
+  "correct_index": 1,
+  "explanation": "לכל סוג טעות יש תרופה. ללמוד שוב חומר שכבר יודעים לא יתקן טעות קריאה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "8fec2165-41e9-5a92-ad37-b95d397ef2e5",
+  "domain": "instructions",
+  "layer": "understanding",
+  "skill": "מילות מפתח",
+  "difficulty": 2,
+  "prompt": "הוראה: \"כמה מהמספרים גדולים מ-10 וגם זוגיים?\" מה התפקיד של \"וגם\"?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "מספר נספר אם הוא עומד באחד התנאים",
+   "מספר נספר רק אם הוא עומד בשני התנאים",
+   "אפשר להתעלם מהתנאי השני",
+   "סופרים כל תנאי בנפרד ומחברים"
+  ],
+  "correct_index": 1,
+  "explanation": "\"וגם\" דורש את שני התנאים יחד. \"או\" היה מסתפק באחד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "cec03ca1-f41d-5aef-ade2-9594e54221af",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "25,  29,  20,  3,  15,  7,  7,  6",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-5.",
+  "figure": null,
+  "options": [
+   "7",
+   "6",
+   "5",
+   "3"
+  ],
+  "correct_index": 2,
+  "explanation": "המספרים שמתחלקים ב-5: 25, 20, 15. ההוראה מבקשת את האחרים, כלומר 5.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "94af1b34-aee8-50a7-a328-57a4b3529627",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "20,  6,  21,  17,  13,  17,  28,  28",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-2.",
+  "figure": null,
+  "options": [
+   "4",
+   "6",
+   "2",
+   "5"
+  ],
+  "correct_index": 0,
+  "explanation": "המספרים שמתחלקים ב-2: 20, 6, 28, 28. ההוראה מבקשת את האחרים, כלומר 4.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "5e4fc7b5-789c-5228-a29b-8ae30dbf9f73",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "10,  17,  5,  22,  1,  4,  21,  19",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-5.",
+  "figure": null,
+  "options": [
+   "8",
+   "5",
+   "6",
+   "7"
+  ],
+  "correct_index": 2,
+  "explanation": "המספרים שמתחלקים ב-5: 10, 5. ההוראה מבקשת את האחרים, כלומר 6.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "710f2f0f-163c-5a6e-a33d-e78d64912b92",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "18,  12,  21,  29,  11,  21,  15,  29",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-3.",
+  "figure": null,
+  "options": [
+   "1",
+   "5",
+   "2",
+   "3"
+  ],
+  "correct_index": 3,
+  "explanation": "המספרים שמתחלקים ב-3: 18, 12, 21, 21, 15. ההוראה מבקשת את האחרים, כלומר 3.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "cc72f0dc-a15c-5faf-a160-423903e43e2d",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "28,  5,  30,  10,  24,  9,  27,  8",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-5.",
+  "figure": null,
+  "options": [
+   "4",
+   "7",
+   "3",
+   "5"
+  ],
+  "correct_index": 3,
+  "explanation": "המספרים שמתחלקים ב-5: 5, 30, 10. ההוראה מבקשת את האחרים, כלומר 5.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "a870d6e0-ad4a-5ee2-a47a-002ac99347ae",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "29,  2,  16,  22,  25,  5,  24,  7",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-2.",
+  "figure": null,
+  "options": [
+   "2",
+   "4",
+   "6",
+   "5"
+  ],
+  "correct_index": 1,
+  "explanation": "המספרים שמתחלקים ב-2: 2, 16, 22, 24. ההוראה מבקשת את האחרים, כלומר 4.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "21867507-916e-52af-ad20-dadff4c0f02b",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "23,  15,  6,  2,  29,  4,  28,  16",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-5.",
+  "figure": null,
+  "options": [
+   "7",
+   "8",
+   "5",
+   "6"
+  ],
+  "correct_index": 0,
+  "explanation": "המספרים שמתחלקים ב-5: 15. ההוראה מבקשת את האחרים, כלומר 7.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "34bbac77-f389-5c29-ae20-dc064c5241a6",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "שלילה בהוראה",
+  "difficulty": 2,
+  "prompt": "12,  29,  19,  21,  30,  24,  5,  3",
+  "instruction_text": "ספרו כמה מהמספרים אינם מתחלקים ב-5.",
+  "figure": null,
+  "options": [
+   "7",
+   "5",
+   "8",
+   "6"
+  ],
+  "correct_index": 3,
+  "explanation": "המספרים שמתחלקים ב-5: 30, 5. ההוראה מבקשת את האחרים, כלומר 6.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "6e5d231c-f0cc-5526-a1dd-7571d4c8f706",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "סדר ומיקום",
+  "difficulty": 2,
+  "prompt": "38,  24,  6,  40,  29,  34,  14",
+  "instruction_text": "מצאו את המספר השני בגודלו (מהגדול לקטן).",
+  "figure": null,
+  "options": [
+   "38",
+   "34",
+   "40",
+   "14"
+  ],
+  "correct_index": 0,
+  "explanation": "מסדרים מהגדול לקטן: 40, 38, 34, 29, 24, 14, 6. במקום השני: 38.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "a51e77c7-7d37-5594-a7f7-cd78b01e42ac",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "סדר ומיקום",
+  "difficulty": 2,
+  "prompt": "13,  31,  21,  20,  24,  16,  33",
+  "instruction_text": "מצאו את המספר השני בגודלו (מהגדול לקטן).",
+  "figure": null,
+  "options": [
+   "33",
+   "24",
+   "16",
+   "31"
+  ],
+  "correct_index": 3,
+  "explanation": "מסדרים מהגדול לקטן: 33, 31, 24, 21, 20, 16, 13. במקום השני: 31.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "ced7c2ca-8105-5087-aa23-2d531c604e84",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "סדר ומיקום",
+  "difficulty": 2,
+  "prompt": "32,  35,  5,  30,  1,  10,  2",
+  "instruction_text": "מצאו את המספר השני בגודלו (מהגדול לקטן).",
+  "figure": null,
+  "options": [
+   "2",
+   "32",
+   "35",
+   "30"
+  ],
+  "correct_index": 1,
+  "explanation": "מסדרים מהגדול לקטן: 35, 32, 30, 10, 5, 2, 1. במקום השני: 32.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "bc271f0c-e9bc-5153-a039-1b3ad83da274",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "סדר ומיקום",
+  "difficulty": 2,
+  "prompt": "3,  16,  35,  1,  18,  5,  2",
+  "instruction_text": "מצאו את המספר השני בגודלו (מהגדול לקטן).",
+  "figure": null,
+  "options": [
+   "35",
+   "16",
+   "2",
+   "18"
+  ],
+  "correct_index": 3,
+  "explanation": "מסדרים מהגדול לקטן: 35, 18, 16, 5, 3, 2, 1. במקום השני: 18.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "2daacab1-a606-5fb7-ad73-a3be42df78ca",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "סדר ומיקום",
+  "difficulty": 2,
+  "prompt": "9,  18,  24,  10,  39,  3,  6",
+  "instruction_text": "מצאו את המספר השני בגודלו (מהגדול לקטן).",
+  "figure": null,
+  "options": [
+   "6",
+   "18",
+   "39",
+   "24"
+  ],
+  "correct_index": 3,
+  "explanation": "מסדרים מהגדול לקטן: 39, 24, 18, 10, 9, 6, 3. במקום השני: 24.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "c989bb1f-e151-5db4-aeb1-b6cb39ca958e",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "סדר ומיקום",
+  "difficulty": 2,
+  "prompt": "6,  9,  14,  3,  15,  28,  10",
+  "instruction_text": "מצאו את המספר השלישי בגודלו (מהגדול לקטן).",
+  "figure": null,
+  "options": [
+   "14",
+   "9",
+   "28",
+   "10"
+  ],
+  "correct_index": 0,
+  "explanation": "מסדרים מהגדול לקטן: 28, 15, 14, 10, 9, 6, 3. במקום השלישי: 14.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "71f18283-106d-5c3d-aecc-7578c7622510",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 3,
+  "prompt": "מה התוצאה?",
+  "instruction_text": "התחילו במספר 6. הכפילו אותו פי 2, הוסיפו 1, ואז החסירו את המספר שבו התחלתם.",
+  "figure": null,
+  "options": [
+   "9",
+   "13",
+   "8",
+   "7"
+  ],
+  "correct_index": 3,
+  "explanation": "6 כפול 2 הוא 12. ועוד 1: 13. פחות 6: 7. מלכודת נפוצה: לשכוח את השלב האחרון.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "3be76f65-8893-59d9-ab18-601d3dba609f",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 3,
+  "prompt": "מה התוצאה?",
+  "instruction_text": "התחילו במספר 10. הכפילו אותו פי 2, הוסיפו 8, ואז החסירו את המספר שבו התחלתם.",
+  "figure": null,
+  "options": [
+   "19",
+   "18",
+   "26",
+   "28"
+  ],
+  "correct_index": 1,
+  "explanation": "10 כפול 2 הוא 20. ועוד 8: 28. פחות 10: 18. מלכודת נפוצה: לשכוח את השלב האחרון.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "35939bc3-d18d-5772-a93c-9fa4f4921d43",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 3,
+  "prompt": "מה התוצאה?",
+  "instruction_text": "התחילו במספר 8. הכפילו אותו פי 2, הוסיפו 4, ואז החסירו את המספר שבו התחלתם.",
+  "figure": null,
+  "options": [
+   "20",
+   "13",
+   "16",
+   "12"
+  ],
+  "correct_index": 3,
+  "explanation": "8 כפול 2 הוא 16. ועוד 4: 20. פחות 8: 12. מלכודת נפוצה: לשכוח את השלב האחרון.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "f0f1206f-b597-500b-a692-385077bc3942",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 3,
+  "prompt": "מה התוצאה?",
+  "instruction_text": "התחילו במספר 4. הכפילו אותו פי 2, הוסיפו 8, ואז החסירו את המספר שבו התחלתם.",
+  "figure": null,
+  "options": [
+   "20",
+   "13",
+   "12",
+   "16"
+  ],
+  "correct_index": 2,
+  "explanation": "4 כפול 2 הוא 8. ועוד 8: 16. פחות 4: 12. מלכודת נפוצה: לשכוח את השלב האחרון.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "18c61460-3735-523d-afe2-c559d5b498d7",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 3,
+  "prompt": "מה התוצאה?",
+  "instruction_text": "התחילו במספר 11. הכפילו אותו פי 2, הוסיפו 5, ואז החסירו את המספר שבו התחלתם.",
+  "figure": null,
+  "options": [
+   "27",
+   "16",
+   "21",
+   "17"
+  ],
+  "correct_index": 1,
+  "explanation": "11 כפול 2 הוא 22. ועוד 5: 27. פחות 11: 16. מלכודת נפוצה: לשכוח את השלב האחרון.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "634619a6-fa01-5250-a80e-9ed61c9625ed",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "הוראות רב שלביות",
+  "difficulty": 3,
+  "prompt": "מה התוצאה?",
+  "instruction_text": "התחילו במספר 3. הכפילו אותו פי 2, הוסיפו 3, ואז החסירו את המספר שבו התחלתם.",
+  "figure": null,
+  "options": [
+   "9",
+   "8",
+   "6",
+   "7"
+  ],
+  "correct_index": 2,
+  "explanation": "3 כפול 2 הוא 6. ועוד 3: 9. פחות 3: 6. מלכודת נפוצה: לשכוח את השלב האחרון.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "7d6b3f5a-5a99-5a20-ad16-1c78568aac3d",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "בדיוק ולפחות",
+  "difficulty": 2,
+  "prompt": "ו  ד  ב  ב  ג  א  ב  ה  ג",
+  "instruction_text": "סמנו את האות שמופיעה בדיוק פעמיים.",
+  "figure": null,
+  "options": [
+   "ג",
+   "ד",
+   "א",
+   "ב"
+  ],
+  "correct_index": 0,
+  "explanation": "\"ג\" מופיעה פעמיים. \"ב\" מופיעה שלוש פעמים, כלומר לפחות פעמיים אבל לא בדיוק פעמיים.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "19c9ff42-22f1-51bc-a6af-8ae5b35a2931",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "בדיוק ולפחות",
+  "difficulty": 2,
+  "prompt": "נ  כ  מ  ס  מ  ס  ע  ל  מ",
+  "instruction_text": "סמנו את האות שמופיעה בדיוק פעמיים.",
+  "figure": null,
+  "options": [
+   "ל",
+   "כ",
+   "מ",
+   "ס"
+  ],
+  "correct_index": 3,
+  "explanation": "\"ס\" מופיעה פעמיים. \"מ\" מופיעה שלוש פעמים, כלומר לפחות פעמיים אבל לא בדיוק פעמיים.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "1f9e4286-2d83-5854-a58c-98ffa5604f56",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "בדיוק ולפחות",
+  "difficulty": 2,
+  "prompt": "ב  ש  ק  א  ת  א  ת  ת  ר",
+  "instruction_text": "סמנו את האות שמופיעה בדיוק פעמיים.",
+  "figure": null,
+  "options": [
+   "א",
+   "ר",
+   "ת",
+   "ק"
+  ],
+  "correct_index": 0,
+  "explanation": "\"א\" מופיעה פעמיים. \"ת\" מופיעה שלוש פעמים, כלומר לפחות פעמיים אבל לא בדיוק פעמיים.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "6ac68f52-1413-5cd0-abfe-b637e0dacb0b",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "בדיוק ולפחות",
+  "difficulty": 2,
+  "prompt": "ח  ד  ז  ג  ב  ז  ז  ח  א",
+  "instruction_text": "סמנו את האות שמופיעה בדיוק פעמיים.",
+  "figure": null,
+  "options": [
+   "א",
+   "ח",
+   "ז",
+   "ב"
+  ],
+  "correct_index": 1,
+  "explanation": "\"ח\" מופיעה פעמיים. \"ז\" מופיעה שלוש פעמים, כלומר לפחות פעמיים אבל לא בדיוק פעמיים.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "cffafc7d-26bb-59e0-a369-83592b76d1b1",
+  "domain": "instructions",
+  "layer": "application",
+  "skill": "בדיוק ולפחות",
+  "difficulty": 2,
+  "prompt": "נ  כ  ס  ס  ל  נ  נ  מ  ע",
+  "instruction_text": "סמנו את האות שמופיעה בדיוק פעמיים.",
+  "figure": null,
+  "options": [
+   "נ",
+   "ס",
+   "ל",
+   "כ"
+  ],
+  "correct_index": 1,
+  "explanation": "\"ס\" מופיעה פעמיים. \"נ\" מופיעה שלוש פעמים, כלומר לפחות פעמיים אבל לא בדיוק פעמיים.",
+  "source": "new",
+  "time_limit_seconds": 40
+ },
+ {
+  "id": "a7f5e876-e4b5-50e3-a549-091d487d29ff",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "כמה הם 10 אחוז מ-250?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "25",
+   "27",
+   "250",
+   "35"
+  ],
+  "correct_index": 0,
+  "explanation": "10 אחוז הם 10 חלקי 100. 250 כפול 0.1 שווה 25.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "254612f0-ad31-5c98-a475-ca820cf65e60",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "כמה הם 20 אחוז מ-150?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "30",
+   "300",
+   "7.5",
+   "50"
+  ],
+  "correct_index": 0,
+  "explanation": "20 אחוז הם 20 חלקי 100. 150 כפול 0.2 שווה 30.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "4f4faed1-42b5-5b05-a1a6-5c8034731298",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "כמה הם 25 אחוז מ-80?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "200",
+   "20",
+   "45",
+   "3.2"
+  ],
+  "correct_index": 1,
+  "explanation": "25 אחוז הם 25 חלקי 100. 80 כפול 0.25 שווה 20.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0381c26b-45e4-5a52-a6ec-043b48ad0f9e",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "כמה הם 50 אחוז מ-64?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "82",
+   "1.28",
+   "320",
+   "32"
+  ],
+  "correct_index": 3,
+  "explanation": "50 אחוז הם 50 חלקי 100. 64 כפול 0.5 שווה 32.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "f7061faa-0948-50e6-a4a2-692540b8f3d0",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "כמה הם 15 אחוז מ-200?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "300",
+   "13.33",
+   "45",
+   "30"
+  ],
+  "correct_index": 3,
+  "explanation": "15 אחוז הם 15 חלקי 100. 200 כפול 0.15 שווה 30.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "badc287f-0ac0-5dfa-ae68-305264da5435",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "כמה הם 30 אחוז מ-90?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "270",
+   "57",
+   "27",
+   "3"
+  ],
+  "correct_index": 2,
+  "explanation": "30 אחוז הם 30 חלקי 100. 90 כפול 0.3 שווה 27.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "68535ad9-d7df-5e75-ac38-f73beb2125ad",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "כמה הם 5 אחוז מ-340?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "17",
+   "170",
+   "68",
+   "22"
+  ],
+  "correct_index": 0,
+  "explanation": "5 אחוז הם 5 חלקי 100. 340 כפול 0.05 שווה 17.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "b073a18b-4aea-523e-acb8-f454eadd9248",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "כמה הם 75 אחוז מ-40?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "30",
+   "0.53",
+   "105",
+   "300"
+  ],
+  "correct_index": 0,
+  "explanation": "75 אחוז הם 75 חלקי 100. 40 כפול 0.75 שווה 30.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "c29ce0f2-7a14-50b5-afd6-cdb8f56f5b51",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "כמה הם 12 אחוז מ-50?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "6",
+   "18",
+   "60",
+   "4.17"
+  ],
+  "correct_index": 0,
+  "explanation": "12 אחוז הם 12 חלקי 100. 50 כפול 0.12 שווה 6.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "16c5d020-eb79-58a0-aae2-22bd3be15aa3",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "כמה הם 40 אחוז מ-35?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "0.88",
+   "14",
+   "140",
+   "54"
+  ],
+  "correct_index": 1,
+  "explanation": "40 אחוז הם 40 חלקי 100. 35 כפול 0.4 שווה 14.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "cae57f9d-0b58-56e6-a530-a1ded2224bc6",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הגדלה ב-10 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "0.1",
+   "1.1",
+   "10",
+   "0.9"
+  ],
+  "correct_index": 1,
+  "explanation": "אחרי הגדלה ב-10 אחוז יש 100 ועוד 10 אחוז, כלומר 110 אחוז. כפל ב-1.1.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "6e3388e0-e7d5-5e16-a8f5-770111d101f5",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הקטנה ב-10 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "0.9",
+   "1.1",
+   "1.9",
+   "0.1"
+  ],
+  "correct_index": 0,
+  "explanation": "אחרי הקטנה ב-10 אחוז נשארים 90 אחוז. כפל ב-0.9.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1a459642-dead-5f0f-a763-91b1c6c7fcf0",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הגדלה ב-20 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "1.2",
+   "0.2",
+   "0.8",
+   "20"
+  ],
+  "correct_index": 0,
+  "explanation": "אחרי הגדלה ב-20 אחוז יש 100 ועוד 20 אחוז, כלומר 120 אחוז. כפל ב-1.2.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "05b7989f-b312-505e-ad20-b144b382356f",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הקטנה ב-20 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "0.2",
+   "1.2",
+   "0.8",
+   "1.8"
+  ],
+  "correct_index": 2,
+  "explanation": "אחרי הקטנה ב-20 אחוז נשארים 80 אחוז. כפל ב-0.8.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "d8f8af4e-2e26-5d01-a0f5-dfbc9f5e8c6d",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הגדלה ב-25 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "25",
+   "0.75",
+   "1.25",
+   "0.25"
+  ],
+  "correct_index": 2,
+  "explanation": "אחרי הגדלה ב-25 אחוז יש 100 ועוד 25 אחוז, כלומר 125 אחוז. כפל ב-1.25.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "b17be026-578b-5188-a586-f8372bf14c07",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הקטנה ב-25 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "1.25",
+   "1.75",
+   "0.75",
+   "0.25"
+  ],
+  "correct_index": 2,
+  "explanation": "אחרי הקטנה ב-25 אחוז נשארים 75 אחוז. כפל ב-0.75.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "98065eb0-e506-5c33-a96e-153ee11c7ee9",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הגדלה ב-35 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "1.35",
+   "0.65",
+   "0.35",
+   "35"
+  ],
+  "correct_index": 0,
+  "explanation": "אחרי הגדלה ב-35 אחוז יש 100 ועוד 35 אחוז, כלומר 135 אחוז. כפל ב-1.35.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1e881cc7-23dc-5eb3-ad08-0d0da67a97db",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הקטנה ב-35 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "0.65",
+   "1.65",
+   "0.35",
+   "1.35"
+  ],
+  "correct_index": 0,
+  "explanation": "אחרי הקטנה ב-35 אחוז נשארים 65 אחוז. כפל ב-0.65.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "78d70568-ce3e-58eb-aa14-e98122bdb838",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הגדלה ב-8 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "1.08",
+   "0.08",
+   "8",
+   "0.92"
+  ],
+  "correct_index": 0,
+  "explanation": "אחרי הגדלה ב-8 אחוז יש 100 ועוד 8 אחוז, כלומר 108 אחוז. כפל ב-1.08.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "472db9bb-22d8-55f5-a56a-1d5483cbd643",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "הקטנה ב-8 אחוז היא כפל ב:",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "0.08",
+   "1.92",
+   "1.08",
+   "0.92"
+  ],
+  "correct_index": 3,
+  "explanation": "אחרי הקטנה ב-8 אחוז נשארים 92 אחוז. כפל ב-0.92.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "a21ed8f2-9ae6-50ab-ac43-c44b4289a494",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "שברים ואחוזים",
+  "difficulty": 1,
+  "prompt": "השבר 1/4 שווה לכמה אחוזים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "75",
+   "41",
+   "25",
+   "10"
+  ],
+  "correct_index": 2,
+  "explanation": "1 חלקי 4 שווה 0.25, כלומר 25 אחוז.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "cd182a86-76b7-5eac-a492-332342810513",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "שברים ואחוזים",
+  "difficulty": 1,
+  "prompt": "השבר 3/4 שווה לכמה אחוזים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "30",
+   "43",
+   "75",
+   "25"
+  ],
+  "correct_index": 2,
+  "explanation": "3 חלקי 4 שווה 0.75, כלומר 75 אחוז.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "a569d835-12ed-58e7-afa2-42cd735843d7",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "שברים ואחוזים",
+  "difficulty": 1,
+  "prompt": "השבר 1/5 שווה לכמה אחוזים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "51",
+   "80",
+   "20",
+   "10"
+  ],
+  "correct_index": 2,
+  "explanation": "1 חלקי 5 שווה 0.2, כלומר 20 אחוז.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "59d33e79-28c7-518c-ae67-0c5eb5ce3e0f",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "שברים ואחוזים",
+  "difficulty": 1,
+  "prompt": "השבר 2/5 שווה לכמה אחוזים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "20",
+   "60",
+   "52",
+   "40"
+  ],
+  "correct_index": 3,
+  "explanation": "2 חלקי 5 שווה 0.4, כלומר 40 אחוז.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1a5b9a6e-c1d4-5481-a026-c7e3a5bffb06",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "שברים ואחוזים",
+  "difficulty": 1,
+  "prompt": "השבר 1/8 שווה לכמה אחוזים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "10",
+   "81",
+   "12.5",
+   "87.5"
+  ],
+  "correct_index": 2,
+  "explanation": "1 חלקי 8 שווה 0.125, כלומר 12.5 אחוז.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "d9ef2e2a-aaf5-583f-a24f-9823238be544",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "שברים ואחוזים",
+  "difficulty": 1,
+  "prompt": "השבר 3/5 שווה לכמה אחוזים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "53",
+   "30",
+   "40",
+   "60"
+  ],
+  "correct_index": 3,
+  "explanation": "3 חלקי 5 שווה 0.6, כלומר 60 אחוז.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "db1d411e-0295-5233-a514-6d01c5313434",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "ממוצע",
+  "difficulty": 1,
+  "prompt": "מהו הממוצע של 19, 8, 6?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "12",
+   "10",
+   "11",
+   "33"
+  ],
+  "correct_index": 2,
+  "explanation": "ממוצע הוא סכום חלקי מספר הערכים. 33 חלקי 3 שווה 11.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "bd507e4a-ea1a-5536-aea4-0dcb37b25a01",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "ממוצע",
+  "difficulty": 1,
+  "prompt": "מהו הממוצע של 9, 13, 17?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "13",
+   "39",
+   "14",
+   "12"
+  ],
+  "correct_index": 0,
+  "explanation": "ממוצע הוא סכום חלקי מספר הערכים. 39 חלקי 3 שווה 13.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0232bd27-107a-5d90-a696-6ccc3d4112a8",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "ממוצע",
+  "difficulty": 1,
+  "prompt": "מהו הממוצע של 16, 10, 19?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "15",
+   "45",
+   "14",
+   "16"
+  ],
+  "correct_index": 0,
+  "explanation": "ממוצע הוא סכום חלקי מספר הערכים. 45 חלקי 3 שווה 15.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "69d57a09-ef92-5fc8-a7c5-6ef103f159af",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "ממוצע",
+  "difficulty": 1,
+  "prompt": "מהו הממוצע של 8, 13, 19, 19, 6?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "13",
+   "14",
+   "65",
+   "12"
+  ],
+  "correct_index": 0,
+  "explanation": "ממוצע הוא סכום חלקי מספר הערכים. 65 חלקי 5 שווה 13.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "08b3a07d-0437-540f-aa48-20d4b1de63bc",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "ממוצע",
+  "difficulty": 1,
+  "prompt": "מהו הממוצע של 13, 14, 9?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "11",
+   "13",
+   "12",
+   "36"
+  ],
+  "correct_index": 2,
+  "explanation": "ממוצע הוא סכום חלקי מספר הערכים. 36 חלקי 3 שווה 12.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "331c43cd-987d-53b0-a45d-27104ff29e20",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "סדר פעולות",
+  "difficulty": 1,
+  "prompt": "מהי התוצאה של 3 + 4 × 2?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "11",
+   "14",
+   "10",
+   "24"
+  ],
+  "correct_index": 0,
+  "explanation": "סדר הפעולות: סוגריים, חזקות, כפל וחילוק, ואז חיבור וחיסור.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "e1ad0332-5d6c-5fa4-ac4e-312615c2a9ae",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "סדר פעולות",
+  "difficulty": 1,
+  "prompt": "מהי התוצאה של 20 − 6 ÷ 2?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "10",
+   "13",
+   "17",
+   "7"
+  ],
+  "correct_index": 2,
+  "explanation": "סדר הפעולות: סוגריים, חזקות, כפל וחילוק, ואז חיבור וחיסור.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "69ed1ff0-2674-5cb1-aefb-f5a5da8cb9c4",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "סדר פעולות",
+  "difficulty": 1,
+  "prompt": "מהי התוצאה של (5 + 3) × 2?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "10",
+   "13",
+   "11",
+   "16"
+  ],
+  "correct_index": 3,
+  "explanation": "סדר הפעולות: סוגריים, חזקות, כפל וחילוק, ואז חיבור וחיסור.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1046e3dd-5a82-5a64-ac72-816dc8cd0d5b",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "סדר פעולות",
+  "difficulty": 1,
+  "prompt": "מהי התוצאה של 2 × 3²?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "12",
+   "36",
+   "18",
+   "8"
+  ],
+  "correct_index": 2,
+  "explanation": "סדר הפעולות: סוגריים, חזקות, כפל וחילוק, ואז חיבור וחיסור.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "f00d66d8-685a-556b-a183-4c96c596d03b",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 1,
+  "prompt": "איך מחשבים מהירות?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "דרך חלקי זמן",
+   "דרך פחות זמן",
+   "זמן חלקי דרך",
+   "דרך כפול זמן"
+  ],
+  "correct_index": 0,
+  "explanation": "מהירות היא דרך ליחידת זמן: דרך חלקי זמן. מכאן: דרך = מהירות כפול זמן, וזמן = דרך חלקי מהירות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9422af3c-30d8-519d-a6f9-57ff7798a310",
+  "domain": "quant",
+  "layer": "knowledge",
+  "skill": "יחסים",
+  "difficulty": 1,
+  "prompt": "יחס של 2 ל-3 בין בנים לבנות. איזה חלק מהכיתה הם בנים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3/5",
+   "2/3",
+   "1/2",
+   "2/5"
+  ],
+  "correct_index": 3,
+  "explanation": "בכל קבוצה של 2 ועוד 3, כלומר 5, יש 2 בנים. החלק הוא 2/5.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "72674bcd-a418-5e2a-a987-d6dd5ed248d2",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "מחיר עלה ב-20 אחוז ואז ירד ב-20 אחוז. למה הוא לא חזר למחיר המקורי?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי ירידה של 20 אחוז גדולה מעלייה של 20 אחוז בכל מקרה",
+   "כי צריך לחבר את האחוזים",
+   "כי הירידה מחושבת מסכום גדול יותר",
+   "כי עלייה וירידה תמיד מבטלות זו את זו"
+  ],
+  "correct_index": 2,
+  "explanation": "100 עולה ל-120. 20 אחוז מ-120 הם 24, ולכן יורדים ל-96. הבסיס השתנה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0d3883e1-a86a-507e-aab2-a5f754beee77",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "למה הגדלה ב-20 אחוז היא כפל ב-1.2 ולא ב-0.2?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי 0.2 קטן מדי",
+   "כי התוצאה היא הסכום המקורי (100 אחוז) ועוד 20 אחוז",
+   "כי 1.2 קל יותר לחישוב",
+   "כי תמיד מוסיפים 1 לכל מספר"
+  ],
+  "correct_index": 1,
+  "explanation": "כפל ב-0.2 נותן רק את התוספת. כדי לקבל את הסכום החדש, מכפילים ב-1.2.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "67efa694-e9d9-5b31-a2f6-cc5a39b5754c",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "יחסים",
+  "difficulty": 2,
+  "prompt": "יחס בנים לבנות בכיתה הוא 2:3. למה לא ייתכן שבכיתה 22 תלמידים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי חייבים להיות יותר בנים",
+   "כי מספר התלמידים חייב להתחלק ב-5",
+   "כי 22 גדול מדי לכיתה",
+   "כי 22 מספר זוגי"
+  ],
+  "correct_index": 1,
+  "explanation": "היחס יוצר קבוצות של 5 (2 ועוד 3). מספר התלמידים הוא כפולה של 5.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "f723b013-a752-50da-a429-923a380c7c15",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "ממוצע",
+  "difficulty": 2,
+  "prompt": "ממוצע של 4 מספרים הוא 10. מוסיפים את המספר 10. מה קורה לממוצע, ולמה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "יורד, כי יש יותר מספרים",
+   "עולה, כי הוספנו מספר",
+   "לא משתנה, כי המספר החדש שווה לממוצע",
+   "עולה ב-10"
+  ],
+  "correct_index": 2,
+  "explanation": "מספר שווה לממוצע לא מושך אותו לשום כיוון. הסכום 50 חלקי 5 הוא עדיין 10.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "116f2308-93f8-54dc-a795-9870c95f45d8",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 2,
+  "prompt": "רכב נוסע חצי דרך במהירות 60 קמ\"ש וחצי דרך במהירות 40 קמ\"ש. למה המהירות הממוצעת אינה 50?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי ממוצע מהירויות תמיד גבוה מהאמצע",
+   "כי צריך לחבר את המהירויות",
+   "כי הדרך לא ידועה",
+   "כי בחלק האיטי הרכב נמצא יותר זמן"
+  ],
+  "correct_index": 3,
+  "explanation": "מהירות ממוצעת היא דרך כוללת חלקי זמן כולל. בחלק של 40 קמ\"ש עובר יותר זמן, ולכן הממוצע נמוך מ-50 (48).",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0083ec31-c221-5c95-a290-d5a3b09ae99a",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "בעיות מילוליות",
+  "difficulty": 2,
+  "prompt": "למה כדאי לסמן \"מה נתון\" ו\"מה נדרש\" לפני חישוב?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כדי לדלג על הנתונים",
+   "כדי לא לחשב נכון משהו שלא נשאל",
+   "כדי שהחישוב יהיה מהיר יותר בכל מקרה",
+   "כי כך נדרש בטופס"
+  ],
+  "correct_index": 1,
+  "explanation": "הרבה טעויות בכמותי הן חישוב נכון של שאלה אחרת. הסימון מקבע את המטרה.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0daf39b6-1c2d-5a48-a85b-3170e00a4ab3",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "גרפים וטבלאות",
+  "difficulty": 2,
+  "prompt": "בגרף עמודות, הציר האנכי מתחיל ב-50 ולא ב-0. מה צריך לזכור?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "שהעמודה הנמוכה שווה 0",
+   "שההפרשים בין העמודות נראים גדולים מהמציאות",
+   "שהגרף שגוי ואין להשתמש בו",
+   "שצריך להוסיף 50 לכל עמודה"
+  ],
+  "correct_index": 1,
+  "explanation": "קוראים את הערכים מהציר, לא מהגובה הנראה. ציר שלא מתחיל באפס מגדיל הבדלים.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "dba2512f-7405-5bbe-a125-9338349e23ee",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "שברים ואחוזים",
+  "difficulty": 2,
+  "prompt": "למה 0.5 כפול 0.5 קטן מ-0.5?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי כפל תמיד מקטין",
+   "כי כפל במספר קטן מ-1 מקטין",
+   "כי 0.5 הוא שלילי",
+   "כי טעות בחישוב"
+  ],
+  "correct_index": 1,
+  "explanation": "חצי מחצי הוא רבע. כפל במספר בין 0 ל-1 לוקח חלק מהמספר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "04f38f62-14f4-504d-a53d-04da4cce1106",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "הספק ועבודה",
+  "difficulty": 2,
+  "prompt": "פועל אחד מסיים עבודה ב-6 שעות, ופועל שני ב-3 שעות. למה ביחד זה לא 4.5 שעות?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי עבודה משותפת תמיד לוקחת יותר זמן",
+   "כי מחברים את קצב העבודה, לא את הזמנים",
+   "כי צריך לחבר את הזמנים",
+   "כי הפועל המהיר עובד לבד"
+  ],
+  "correct_index": 1,
+  "explanation": "בשעה: הראשון עושה 1/6, השני 1/3. ביחד 1/2 בשעה, כלומר שעתיים. ביחד זה תמיד מהר יותר מהמהיר מביניהם.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "24bc28f3-ca77-5a44-a649-eca8560631f4",
+  "domain": "quant",
+  "layer": "understanding",
+  "skill": "סדרות מספרים",
+  "difficulty": 2,
+  "prompt": "בסדרה 2, 6, 18, 54, למה בודקים יחס ולא הפרש?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "כי ההפרשים גדלים והיחס קבוע (פי 3)",
+   "כי המספרים זוגיים",
+   "כי ההפרש קבוע",
+   "כי בסדרות תמיד בודקים יחס"
+  ],
+  "correct_index": 0,
+  "explanation": "כלל אצבע: קודם בודקים הפרש. אם ההפרשים לא קבועים ונראים כמו כפל, בודקים יחס.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "1bb11f49-909e-5419-a809-8933b6ce4eae",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "חולצה עולה 80 שקלים. במבצע יש הנחה של 20 אחוז. כמה עולה החולצה במבצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "60",
+   "16",
+   "64",
+   "54"
+  ],
+  "correct_index": 2,
+  "explanation": "הנחה של 20 אחוז היא כפל ב-0.8. 80 כפול 0.8 שווה 64. מלכודת: 16 הוא גובה ההנחה, לא המחיר.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "1eb517d7-3b53-531a-ad9a-418cf0cb5ecd",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "זוג נעליים עולה 200 שקלים. במבצע יש הנחה של 10 אחוז. כמה עולה הזוג נעליים במבצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "190",
+   "180",
+   "20",
+   "170"
+  ],
+  "correct_index": 1,
+  "explanation": "הנחה של 10 אחוז היא כפל ב-0.9. 200 כפול 0.9 שווה 180. מלכודת: 20 הוא גובה ההנחה, לא המחיר.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "728eb69a-d051-5081-acfe-b22d6f3afe44",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "תיק עולה 240 שקלים. במבצע יש הנחה של 10 אחוז. כמה עולה התיק במבצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "216",
+   "24",
+   "230",
+   "206"
+  ],
+  "correct_index": 0,
+  "explanation": "הנחה של 10 אחוז היא כפל ב-0.9. 240 כפול 0.9 שווה 216. מלכודת: 24 הוא גובה ההנחה, לא המחיר.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "a467df67-4df2-5a05-aaf8-5b8271bd0370",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "מעיל עולה 400 שקלים. במבצע יש הנחה של 15 אחוז. כמה עולה המעיל במבצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "60",
+   "340",
+   "385",
+   "330"
+  ],
+  "correct_index": 1,
+  "explanation": "הנחה של 15 אחוז היא כפל ב-0.85. 400 כפול 0.85 שווה 340. מלכודת: 60 הוא גובה ההנחה, לא המחיר.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "d9ada3e0-05aa-515e-a3b5-b561b7129529",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "שעון עולה 300 שקלים. במבצע יש הנחה של 10 אחוז. כמה עולה השעון במבצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "30",
+   "290",
+   "260",
+   "270"
+  ],
+  "correct_index": 3,
+  "explanation": "הנחה של 10 אחוז היא כפל ב-0.9. 300 כפול 0.9 שווה 270. מלכודת: 30 הוא גובה ההנחה, לא המחיר.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "910ca291-dcab-5e41-a33e-ffaf12aacd9a",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 1,
+  "prompt": "אוזניות עולה 400 שקלים. במבצע יש הנחה של 25 אחוז. כמה עולה האוזניות במבצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "290",
+   "300",
+   "100",
+   "375"
+  ],
+  "correct_index": 1,
+  "explanation": "הנחה של 25 אחוז היא כפל ב-0.75. 400 כפול 0.75 שווה 300. מלכודת: 100 הוא גובה ההנחה, לא המחיר.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "d98294f0-53ae-51a1-a6f6-1e3fb1621ced",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "מספר המבקרים עלה מ-40 ל-50. בכמה אחוזים עלה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "20",
+   "35",
+   "25",
+   "10"
+  ],
+  "correct_index": 2,
+  "explanation": "שינוי באחוזים = ההפרש חלקי הערך ההתחלתי. 10 חלקי 40 הוא 25 אחוז. מלכודת: לחלק בערך החדש.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "5bc37ba4-75a1-554c-aeb7-287f719f09be",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "מספר המבקרים עלה מ-120 ל-132. בכמה אחוזים עלה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "12",
+   "20",
+   "9",
+   "10"
+  ],
+  "correct_index": 3,
+  "explanation": "שינוי באחוזים = ההפרש חלקי הערך ההתחלתי. 12 חלקי 120 הוא 10 אחוז. מלכודת: לחלק בערך החדש.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "f08da2ae-b2b3-5e6b-a50d-153c5eb422e0",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "מספר המבקרים עלה מ-250 ל-300. בכמה אחוזים עלה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "20",
+   "50",
+   "30",
+   "17"
+  ],
+  "correct_index": 0,
+  "explanation": "שינוי באחוזים = ההפרש חלקי הערך ההתחלתי. 50 חלקי 250 הוא 20 אחוז. מלכודת: לחלק בערך החדש.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "c4f7e478-b916-53c0-a39c-dea2f825e347",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "מספר המבקרים עלה מ-120 ל-144. בכמה אחוזים עלה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "30",
+   "24",
+   "17",
+   "20"
+  ],
+  "correct_index": 3,
+  "explanation": "שינוי באחוזים = ההפרש חלקי הערך ההתחלתי. 24 חלקי 120 הוא 20 אחוז. מלכודת: לחלק בערך החדש.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "1c633579-0b1b-50cd-a351-97b5533cbd1d",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "אחוזים",
+  "difficulty": 2,
+  "prompt": "מספר המבקרים עלה מ-250 ל-312.5. בכמה אחוזים עלה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "62.5",
+   "35",
+   "20",
+   "25"
+  ],
+  "correct_index": 3,
+  "explanation": "שינוי באחוזים = ההפרש חלקי הערך ההתחלתי. 62.5 חלקי 250 הוא 25 אחוז. מלכודת: לחלק בערך החדש.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "fc0022b9-2c87-5114-a3ee-116b57c7c43f",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 2,
+  "prompt": "רכבת נוסעת 150 ק\"מ במהירות קבועה של 60 קמ\"ש. כמה שעות נמשכת הנסיעה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "2.5",
+   "15",
+   "3",
+   "5"
+  ],
+  "correct_index": 0,
+  "explanation": "זמן = דרך חלקי מהירות. 150 חלקי 60 שווה 2.5 שעות.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "c55e66b7-986b-5b0b-a85f-9da9c3e3a13e",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 2,
+  "prompt": "רכבת נוסעת 125 ק\"מ במהירות קבועה של 50 קמ\"ש. כמה שעות נמשכת הנסיעה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3",
+   "12.5",
+   "5",
+   "2.5"
+  ],
+  "correct_index": 3,
+  "explanation": "זמן = דרך חלקי מהירות. 125 חלקי 50 שווה 2.5 שעות.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "d6724921-2f59-5caf-abe8-9cec1f5c9394",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 2,
+  "prompt": "רכבת נוסעת 75 ק\"מ במהירות קבועה של 50 קמ\"ש. כמה שעות נמשכת הנסיעה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3",
+   "7.5",
+   "1.5",
+   "2"
+  ],
+  "correct_index": 2,
+  "explanation": "זמן = דרך חלקי מהירות. 75 חלקי 50 שווה 1.5 שעות.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "7a6b6c06-115e-5374-a6ac-87145de85c5f",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 2,
+  "prompt": "רכבת נוסעת 90 ק\"מ במהירות קבועה של 60 קמ\"ש. כמה שעות נמשכת הנסיעה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "2",
+   "9",
+   "1.5",
+   "3"
+  ],
+  "correct_index": 2,
+  "explanation": "זמן = דרך חלקי מהירות. 90 חלקי 60 שווה 1.5 שעות.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "d7efad5b-e1fb-5449-a9d1-1791fec72f16",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "דרך מהירות זמן",
+  "difficulty": 2,
+  "prompt": "רכבת נוסעת 225 ק\"מ במהירות קבועה של 90 קמ\"ש. כמה שעות נמשכת הנסיעה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "22.5",
+   "3",
+   "2.5",
+   "5"
+  ],
+  "correct_index": 2,
+  "explanation": "זמן = דרך חלקי מהירות. 225 חלקי 90 שווה 2.5 שעות.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "423803fe-fa3e-5a50-af97-2ae5f661af70",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "ממוצע",
+  "difficulty": 3,
+  "prompt": "ממוצע הציונים של 4 מבחנים הוא 82. בשלושה מהם ידועים הציונים: 82, 88, 89. מה הציון במבחן החסר?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "73",
+   "65",
+   "82",
+   "69"
+  ],
+  "correct_index": 3,
+  "explanation": "סכום כל הציונים = ממוצע כפול מספר המבחנים = 328. מחסירים את הידועים: 328 פחות 259 שווה 69.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "3e6a1312-3ed8-518a-a64b-754309cb3db3",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "ממוצע",
+  "difficulty": 3,
+  "prompt": "ממוצע הציונים של 4 מבחנים הוא 73. בשלושה מהם ידועים הציונים: 75, 78, 72. מה הציון במבחן החסר?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "73",
+   "63",
+   "67",
+   "71"
+  ],
+  "correct_index": 2,
+  "explanation": "סכום כל הציונים = ממוצע כפול מספר המבחנים = 292. מחסירים את הידועים: 292 פחות 225 שווה 67.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "9b08162c-8009-5b0c-af6e-0c832e13e13b",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "ממוצע",
+  "difficulty": 3,
+  "prompt": "ממוצע הציונים של 5 מבחנים הוא 74. בארבעה מהם ידועים הציונים: 82, 68, 74, 75. מה הציון במבחן החסר?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "71",
+   "76",
+   "74",
+   "66"
+  ],
+  "correct_index": 0,
+  "explanation": "סכום כל הציונים = ממוצע כפול מספר המבחנים = 370. מחסירים את הידועים: 370 פחות 299 שווה 71.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "42b190c0-4508-5b69-a8ed-5f24429bd316",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "ממוצע",
+  "difficulty": 3,
+  "prompt": "ממוצע הציונים של 4 מבחנים הוא 83. בשלושה מהם ידועים הציונים: 83, 77, 84. מה הציון במבחן החסר?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "92",
+   "88",
+   "83",
+   "84"
+  ],
+  "correct_index": 1,
+  "explanation": "סכום כל הציונים = ממוצע כפול מספר המבחנים = 332. מחסירים את הידועים: 332 פחות 244 שווה 88.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "0cb0310c-978b-5d3d-ae51-8f534d27beb6",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "יחסים",
+  "difficulty": 2,
+  "prompt": "21 כדורים מחולקים בין שתי קופסאות ביחס 3:4. כמה כדורים בקופסה הראשונה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "10.5",
+   "13",
+   "12",
+   "9"
+  ],
+  "correct_index": 3,
+  "explanation": "יש 7 חלקים שווים. כל חלק: 21 חלקי 7 שווה 3. לקופסה הראשונה 3 חלקים: 9.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "89f69766-321c-59f8-afb8-ce6eea0aed5c",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "יחסים",
+  "difficulty": 2,
+  "prompt": "18 כדורים מחולקים בין שתי קופסאות ביחס 1:5. כמה כדורים בקופסה הראשונה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3",
+   "9",
+   "15",
+   "8"
+  ],
+  "correct_index": 0,
+  "explanation": "יש 6 חלקים שווים. כל חלק: 18 חלקי 6 שווה 3. לקופסה הראשונה 1 חלקים: 3.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "ad92694c-618b-5d1b-af18-483c5a1400a3",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "יחסים",
+  "difficulty": 2,
+  "prompt": "56 כדורים מחולקים בין שתי קופסאות ביחס 2:5. כמה כדורים בקופסה הראשונה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "16",
+   "28",
+   "21",
+   "40"
+  ],
+  "correct_index": 0,
+  "explanation": "יש 7 חלקים שווים. כל חלק: 56 חלקי 7 שווה 8. לקופסה הראשונה 2 חלקים: 16.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "0e4ce60a-48aa-5c5d-a27b-bb4dbe920e4c",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "יחסים",
+  "difficulty": 2,
+  "prompt": "63 כדורים מחולקים בין שתי קופסאות ביחס 2:5. כמה כדורים בקופסה הראשונה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "18",
+   "31.5",
+   "23",
+   "45"
+  ],
+  "correct_index": 0,
+  "explanation": "יש 7 חלקים שווים. כל חלק: 63 חלקי 7 שווה 9. לקופסה הראשונה 2 חלקים: 18.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "6b02f572-1644-5be8-afd2-ab1534bf07d7",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "יחסים",
+  "difficulty": 2,
+  "prompt": "63 כדורים מחולקים בין שתי קופסאות ביחס 3:4. כמה כדורים בקופסה הראשונה?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "31",
+   "31.5",
+   "36",
+   "27"
+  ],
+  "correct_index": 3,
+  "explanation": "יש 7 חלקים שווים. כל חלק: 63 חלקי 7 שווה 9. לקופסה הראשונה 3 חלקים: 27.",
+  "source": "new",
+  "time_limit_seconds": 60
+ },
+ {
+  "id": "0737aa59-15eb-5ad1-a6b6-72fa679fcbb5",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "הספק ועבודה",
+  "difficulty": 3,
+  "prompt": "ברז אחד ממלא מכל ב-6 שעות, וברז שני ממלא אותו ב-3 שעות. כמה שעות ייקח למלא את המכל כששני הברזים פתוחים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "4.5",
+   "2",
+   "9",
+   "4"
+  ],
+  "correct_index": 1,
+  "explanation": "בשעה: 1/6 ועוד 1/3 שווה 1/2. לכן 2 שעות. ביחד תמיד מהר יותר מהברז המהיר.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "2920fab7-1b3f-5ccb-ac64-04feca773019",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "הספק ועבודה",
+  "difficulty": 3,
+  "prompt": "ברז אחד ממלא מכל ב-12 שעות, וברז שני ממלא אותו ב-4 שעות. כמה שעות ייקח למלא את המכל כששני הברזים פתוחים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "16",
+   "8",
+   "5",
+   "3"
+  ],
+  "correct_index": 3,
+  "explanation": "בשעה: 1/12 ועוד 1/4 שווה 1/3. לכן 3 שעות. ביחד תמיד מהר יותר מהברז המהיר.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "776adcc1-6259-55a3-aea9-9c706c3db307",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "הספק ועבודה",
+  "difficulty": 3,
+  "prompt": "ברז אחד ממלא מכל ב-10 שעות, וברז שני ממלא אותו ב-15 שעות. כמה שעות ייקח למלא את המכל כששני הברזים פתוחים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "25",
+   "12.5",
+   "11",
+   "6"
+  ],
+  "correct_index": 3,
+  "explanation": "בשעה: 1/10 ועוד 1/15 שווה 1/6. לכן 6 שעות. ביחד תמיד מהר יותר מהברז המהיר.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "99b2f6d1-0266-5062-a98c-9312978afb65",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "הספק ועבודה",
+  "difficulty": 3,
+  "prompt": "ברז אחד ממלא מכל ב-20 שעות, וברז שני ממלא אותו ב-5 שעות. כמה שעות ייקח למלא את המכל כששני הברזים פתוחים?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "25",
+   "4",
+   "12.5",
+   "6"
+  ],
+  "correct_index": 1,
+  "explanation": "בשעה: 1/20 ועוד 1/5 שווה 1/4. לכן 4 שעות. ביחד תמיד מהר יותר מהברז המהיר.",
+  "source": "new",
+  "time_limit_seconds": 75
+ },
+ {
+  "id": "4dcfaaba-1964-5349-a971-d065bc9518b0",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 1,
+  "prompt": "מהו המספר הבא בסדרה: 3, 7, 11, 15, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "22",
+   "20",
+   "16",
+   "19"
+  ],
+  "correct_index": 3,
+  "explanation": "הפרש קבוע של 4. המספר הבא: 19. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "a6f4e57a-0fdf-535b-afac-0a6d50ff6c8a",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 1,
+  "prompt": "מהו המספר הבא בסדרה: 2, 6, 18, 54, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "143",
+   "162",
+   "136",
+   "181"
+  ],
+  "correct_index": 1,
+  "explanation": "יחס קבוע: פי 3. המספר הבא: 162. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "1345de4c-2d60-570e-a8af-1c63d72dc061",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 1,
+  "prompt": "מהו המספר הבא בסדרה: 50, 45, 40, 35, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "29",
+   "25",
+   "35",
+   "30"
+  ],
+  "correct_index": 3,
+  "explanation": "הפרש קבוע של מינוס 5. המספר הבא: 30. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "e88da035-ea1a-5378-ad02-f2e6d68928e6",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 2,
+  "prompt": "מהו המספר הבא בסדרה: 1, 4, 9, 16, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "25",
+   "21",
+   "29",
+   "28"
+  ],
+  "correct_index": 0,
+  "explanation": "ריבועים: 1, 2, 3, 4, ולכן 5 בריבוע. המספר הבא: 25. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "790a1b85-ff59-51fb-a326-89c835dc6b6f",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 2,
+  "prompt": "מהו המספר הבא בסדרה: 2, 3, 5, 8, 12, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "14",
+   "17",
+   "20",
+   "16"
+  ],
+  "correct_index": 1,
+  "explanation": "ההפרשים גדלים באחד: 1, 2, 3, 4, ולכן 5. המספר הבא: 17. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "392b4d0e-8d07-5f41-afdb-2e72f7d30ec8",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 2,
+  "prompt": "מהו המספר הבא בסדרה: 96, 48, 24, 12, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "3",
+   "6",
+   "8",
+   "4"
+  ],
+  "correct_index": 1,
+  "explanation": "יחס קבוע: חלקי 2. המספר הבא: 6. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "7306400e-cb54-5706-a78c-0634716d4e06",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 3,
+  "prompt": "מהו המספר הבא בסדרה: 1, 2, 4, 7, 11, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "15",
+   "16",
+   "17",
+   "14"
+  ],
+  "correct_index": 1,
+  "explanation": "ההפרשים: 1, 2, 3, 4, ולכן 5. המספר הבא: 16. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "4ff6e997-a8b2-5c09-abb6-713fb11bd235",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "סדרות מספרים",
+  "difficulty": 3,
+  "prompt": "מהו המספר הבא בסדרה: 5, 10, 8, 16, 14, ?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "27",
+   "31",
+   "28",
+   "32"
+  ],
+  "correct_index": 2,
+  "explanation": "לסירוגין: כפול 2, ואז מינוס 2. המספר הבא: 28. כלל אצבע: קודם הפרש, אחר כך יחס.",
+  "source": "new",
+  "time_limit_seconds": 50
+ },
+ {
+  "id": "88abb9f9-429c-5090-ae6c-eb60e311946f",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "גרפים וטבלאות",
+  "difficulty": 2,
+  "prompt": "בטבלה מספר הספרים שקראו ארבעה תלמידים: דן 6, נועה 9, אורי 4, מאיה 5. כמה ספרים קראו בממוצע?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "5",
+   "24",
+   "7",
+   "6"
+  ],
+  "correct_index": 3,
+  "explanation": "הסכום 24 חלקי 4 תלמידים: 6.",
+  "source": "new",
+  "time_limit_seconds": 70
+ },
+ {
+  "id": "3732caff-0748-5e52-ae03-58341fc1ace0",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "גרפים וטבלאות",
+  "difficulty": 2,
+  "prompt": "בגרף: בינואר נמכרו 120 כרטיסים, בפברואר 90, במרץ 150. בכמה אחוזים גבוהות המכירות במרץ מאלה של ינואר?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "25",
+   "20",
+   "30",
+   "50"
+  ],
+  "correct_index": 0,
+  "explanation": "ההפרש 30 חלקי הערך של ינואר (120) שווה 25 אחוז.",
+  "source": "new",
+  "time_limit_seconds": 70
+ },
+ {
+  "id": "1aa9d792-5c20-5a57-a85a-5474aff4a9d5",
+  "domain": "quant",
+  "layer": "application",
+  "skill": "גרפים וטבלאות",
+  "difficulty": 2,
+  "prompt": "בטבלה: בכיתה 30 תלמידים, 40 אחוז מהם בחוג ספורט. מתוכם, חצי בחוג כדורסל. כמה תלמידים בחוג כדורסל?",
+  "instruction_text": null,
+  "figure": null,
+  "options": [
+   "20",
+   "15",
+   "6",
+   "12"
+  ],
+  "correct_index": 2,
+  "explanation": "40 אחוז מ-30 הם 12. חצי מ-12 הם 6. \"מתוכם\" מגדיר את הבסיס לחישוב השני.",
+  "source": "new",
+  "time_limit_seconds": 70
+ },
+ {
+  "id": "1bfaa62d-d8da-50ac-a441-6e760946d05c",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 270,
+     "fill": "half"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא",
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד"
+  ],
+  "correct_index": 3,
+  "explanation": "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "ed0f918c-f304-5afb-a009-7dadf426cbc7",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "איזה כלל מתאר את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "hex",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "rot": 270,
+     "fill": "half"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד",
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות",
+   "הצורה גדלה בכל צעד"
+  ],
+  "correct_index": 0,
+  "explanation": "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד. משווים כל צורה לצורה שלפניה, ומנסחים את השינוי במילים.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "67f8a58c-4871-5d6f-a36a-1c21313c28ce",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 45,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 135,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד",
+   "הצורה גדלה בכל צעד",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא"
+  ],
+  "correct_index": 0,
+  "explanation": "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "980c9b0b-fa2b-5439-a4e5-ebc96d17fb77",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "איזה כלל מתאר את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 45,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 135,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות",
+   "מספר הצורות גדל באחת בכל צעד",
+   "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד"
+  ],
+  "correct_index": 3,
+  "explanation": "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד. משווים כל צורה לצורה שלפניה, ומנסחים את השינוי במילים.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "63f05c1b-5d0d-5986-a9a9-1b2e0615c201",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "square",
+     "n": 1,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 2,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 3,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 4,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא",
+   "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד",
+   "מספר הצורות גדל באחת בכל צעד"
+  ],
+  "correct_index": 3,
+  "explanation": "מספר הצורות גדל באחת בכל צעד. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "69a8bb75-f302-5d5a-a4da-0ec3eae43a06",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "איזה כלל מתאר את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "n": 2,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 3,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 4,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 5,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה גדלה בכל צעד",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא",
+   "מספר הצורות גדל באחת בכל צעד"
+  ],
+  "correct_index": 3,
+  "explanation": "מספר הצורות גדל באחת בכל צעד. משווים כל צורה לצורה שלפניה, ומנסחים את השינוי במילים.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "eb7a0b1c-cbf6-526a-af5d-6b279589f73d",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד",
+   "הצורה גדלה בכל צעד",
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא"
+  ],
+  "correct_index": 3,
+  "explanation": "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "61d2cb09-f9bf-588c-afd1-fdd9f8221e04",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "איזה כלל מתאר את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "הצורה גדלה בכל צעד",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא",
+   "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד",
+   "הצורות חוזרות במחזור קבוע של שלוש"
+  ],
+  "correct_index": 1,
+  "explanation": "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא. משווים כל צורה לצורה שלפניה, ומנסחים את השינוי במילים.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0616f31c-f875-5123-af21-7096f39fe9cc",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "none"
+    }
+   ]
+  ],
+  "options": [
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "מספר הצורות גדל באחת בכל צעד",
+   "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות"
+  ],
+  "correct_index": 0,
+  "explanation": "הצורות חוזרות במחזור קבוע של שלוש. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "6de4a920-ed74-5f6c-a529-15d3a45c3c1a",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "איזה כלל מתאר את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ]
+  ],
+  "options": [
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות",
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "מספר הצורות גדל באחת בכל צעד",
+   "הצורה גדלה בכל צעד"
+  ],
+  "correct_index": 1,
+  "explanation": "הצורות חוזרות במחזור קבוע של שלוש. משווים כל צורה לצורה שלפניה, ומנסחים את השינוי במילים.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "0151ce32-0594-5c5c-a8d4-0732352d0e4e",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 2,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "n": 1,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 2,
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 3,
+     "rot": 180,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 4,
+     "rot": 270,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "מספר הצורות גדל באחת בכל צעד",
+   "הצורות חוזרות במחזור קבוע של שלוש",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות",
+   "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא"
+  ],
+  "correct_index": 2,
+  "explanation": "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "63dbc570-1baf-52a3-a44d-b0568cd3568f",
+  "domain": "figural",
+  "layer": "knowledge",
+  "skill": "זיהוי כלל",
+  "difficulty": 1,
+  "prompt": "מה משתנה ברצף הצורות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "hex",
+     "size": 0.35,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "size": 0.48,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "size": 0.61,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "size": 0.74,
+     "fill": "none"
+    }
+   ]
+  ],
+  "options": [
+   "מספר הצורות גדל באחת בכל צעד",
+   "הצורה גדלה בכל צעד",
+   "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד",
+   "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות"
+  ],
+  "correct_index": 1,
+  "explanation": "הצורה גדלה בכל צעד. כלל אצבע: מחפשים מה משתנה בין הצעדים, לא מה נשאר.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "eb31e46e-84da-5673-a746-4ec68d855e40",
+  "domain": "figural",
+  "layer": "understanding",
+  "skill": "הסבר כלל",
+  "difficulty": 2,
+  "prompt": "ברצף הזה, למה בודקים את מיקום החלק המלא בצורה?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 270,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 0,
+     "fill": "half"
+    }
+   ]
+  ],
+  "options": [
+   "כי הצורה גדלה",
+   "כי מספר הצורות משתנה",
+   "כי הצבע הוא הכלל היחיד",
+   "כי הוא מראה את כיוון הסיבוב, שאי אפשר לראות בצורה סימטרית"
+  ],
+  "correct_index": 3,
+  "explanation": "כי הוא מראה את כיוון הסיבוב, שאי אפשר לראות בצורה סימטרית. הכלל ברצף: הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "bf1e1ba9-b02f-5705-aa28-0e4e8f8dd19b",
+  "domain": "figural",
+  "layer": "understanding",
+  "skill": "הסבר כלל",
+  "difficulty": 2,
+  "prompt": "ברצף הזה משתנים שני דברים. למה צריך לבדוק את שניהם לפני שבוחרים?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "n": 1,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 2,
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 3,
+     "rot": 180,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 4,
+     "rot": 270,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "כי אפשר לבחור לפי הכלל הראשון בלבד",
+   "כי תשובה שמתאימה רק לכלל אחד נראית נכונה אבל שגויה",
+   "כי הכלל השני חשוב יותר",
+   "כי תמיד יש שני כללים"
+  ],
+  "correct_index": 1,
+  "explanation": "כי תשובה שמתאימה רק לכלל אחד נראית נכונה אבל שגויה. הכלל ברצף: מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "7d844dab-bc8c-5fff-a4cd-58ce574f632a",
+  "domain": "figural",
+  "layer": "understanding",
+  "skill": "הסבר כלל",
+  "difficulty": 2,
+  "prompt": "למה ברצף הזה לא מספיק להסתכל רק על הצורה האחרונה?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ]
+  ],
+  "options": [
+   "כי הצורה האחרונה תמיד שגויה",
+   "כי הצבע משתנה",
+   "כי הצורות גדלות",
+   "כי הכלל הוא מחזור, וצריך לזהות את אורכו מכל הרצף"
+  ],
+  "correct_index": 3,
+  "explanation": "כי הכלל הוא מחזור, וצריך לזהות את אורכו מכל הרצף. הכלל ברצף: הצורות חוזרות במחזור קבוע של שלוש.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "ef2d9e2b-47aa-5cc9-a3fd-055b83945769",
+  "domain": "figural",
+  "layer": "understanding",
+  "skill": "הסבר כלל",
+  "difficulty": 2,
+  "prompt": "ברצף משתנים גם הצורה וגם המילוי. מה הדרך היעילה לבדוק אפשרויות?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "לבדוק רק את המילוי",
+   "לפסול אפשרויות לפי כלל אחד, ואז לבדוק את הנותרות לפי השני",
+   "לספור את הפינות",
+   "לבחור את האפשרות הראשונה שנראית דומה"
+  ],
+  "correct_index": 1,
+  "explanation": "לפסול אפשרויות לפי כלל אחד, ואז לבדוק את הנותרות לפי השני. הכלל ברצף: המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "d7739912-b872-5083-aa38-4140694c76b8",
+  "domain": "figural",
+  "layer": "understanding",
+  "skill": "הסבר כלל",
+  "difficulty": 2,
+  "prompt": "למה בודקים קודם הפרש בין מספרי הצורות, ורק אחר כך יחס?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "square",
+     "n": 2,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 3,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 4,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 5,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "options": [
+   "כי אין הבדל",
+   "כי הפרש מהיר יותר לחישוב בכל מקרה",
+   "כי יחס אף פעם לא מופיע בצורות",
+   "כי הפרש קבוע הוא הכלל הנפוץ, ויחס בודקים רק אם ההפרש לא קבוע"
+  ],
+  "correct_index": 3,
+  "explanation": "כי הפרש קבוע הוא הכלל הנפוץ, ויחס בודקים רק אם ההפרש לא קבוע. הכלל ברצף: מספר הצורות גדל באחת בכל צעד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "bedd2b74-4220-59ca-ad5e-fdb40a415b6e",
+  "domain": "figural",
+  "layer": "understanding",
+  "skill": "הסבר כלל",
+  "difficulty": 2,
+  "prompt": "מה ההבדל בין \"הצורה גדלה\" לבין \"מספר הצורות גדל\"?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "square",
+     "size": 0.35,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "size": 0.48,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "size": 0.61,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "size": 0.74,
+     "fill": "none"
+    }
+   ]
+  ],
+  "options": [
+   "בראשון משתנה הגודל של צורה אחת, בשני מתווספות צורות",
+   "בשני הצורה מסתובבת",
+   "בראשון משתנה הצבע",
+   "אין הבדל"
+  ],
+  "correct_index": 0,
+  "explanation": "בראשון משתנה הגודל של צורה אחת, בשני מתווספות צורות. הכלל ברצף: הצורה גדלה בכל צעד.",
+  "source": "new",
+  "time_limit_seconds": null
+ },
+ {
+  "id": "9cda08ff-74b4-59d6-a097-71ae4c77f7db",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 1,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "square",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "rot": 270,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "square",
+     "rot": 270,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "rot": 180,
+     "fill": "half"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "5284c474-578f-5fbc-a481-1de770c6e08b",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 1,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "n": 1,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 2,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 3,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 4,
+     "fill": "solid"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "circle",
+     "n": 6,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 4,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 5,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "n": 3,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "מספר הצורות גדל באחת בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "dbb91ee5-abaa-54ad-aeeb-89a5d21b5480",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 2,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "diamond",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "הצורות חוזרות במחזור קבוע של שלוש. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "3eae304d-9ff7-5e68-ad8a-22718859e345",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 2,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "solid"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "square",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "half"
+    }
+   ]
+  ],
+  "correct_index": 0,
+  "explanation": "המילוי מתחלף לסירוגין: ריק, מלא, ריק, מלא. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "a5a6bd1d-1ab9-5d5b-ab89-132bb1a36452",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 3,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 45,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 135,
+     "fill": "solid"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "triangle",
+     "rot": 135,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 180,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "rot": 225,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "הצורה מסתובבת ב-45 מעלות עם כיוון השעון בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "d38380ca-616b-5053-a408-8d4766d60398",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 3,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "n": 1,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 2,
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 3,
+     "rot": 180,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 4,
+     "rot": 270,
+     "fill": "solid"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "triangle",
+     "n": 5,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 5,
+     "rot": 270,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 5,
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 4,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "correct_index": 0,
+  "explanation": "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "697bce81-143f-5c92-ae04-53008c972b97",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 1,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "size": 0.35,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "size": 0.48,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "size": 0.61,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "size": 0.74,
+     "fill": "none"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "triangle",
+     "size": 0.87,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "size": 0.35,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "size": 0.87,
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "size": 0.61,
+     "fill": "none"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "הצורה גדלה בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "2253dc1d-3511-5f2c-a1f7-e9af64c24bc3",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 1,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 270,
+     "fill": "half"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "circle",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 270,
+     "fill": "half"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "85ddddc0-456e-516a-a66b-9a640242469b",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 1,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "square",
+     "n": 2,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 3,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 4,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 5,
+     "fill": "solid"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "square",
+     "n": 7,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 6,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 4,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "n": 5,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "correct_index": 1,
+  "explanation": "מספר הצורות גדל באחת בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "b7a727b5-ee42-5d3a-a1e6-7663d7a39646",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 2,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "triangle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "square",
+     "fill": "none"
+    }
+   ],
+   [
+    {
+     "s": "hex",
+     "fill": "none"
+    }
+   ]
+  ],
+  "correct_index": 2,
+  "explanation": "הצורות חוזרות במחזור קבוע של שלוש. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "34e2074b-40c7-5a57-a2dc-20d5bbec6ad6",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 3,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "triangle",
+     "n": 1,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 2,
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 3,
+     "rot": 180,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 4,
+     "rot": 270,
+     "fill": "solid"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "triangle",
+     "n": 5,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 5,
+     "rot": 90,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 4,
+     "rot": 0,
+     "fill": "solid"
+    }
+   ],
+   [
+    {
+     "s": "triangle",
+     "n": 5,
+     "rot": 270,
+     "fill": "solid"
+    }
+   ]
+  ],
+  "correct_index": 0,
+  "explanation": "מספר הצורות גדל באחת, והצורה מסתובבת ב-90 מעלות. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ },
+ {
+  "id": "77db7689-d340-5589-abfa-a1d068a1d391",
+  "domain": "figural",
+  "layer": "application",
+  "skill": "השלמת רצף",
+  "difficulty": 1,
+  "prompt": "איזו צורה ממשיכה את הרצף?",
+  "instruction_text": null,
+  "figure": [
+   [
+    {
+     "s": "circle",
+     "rot": 90,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 270,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   null
+  ],
+  "options": [
+   [
+    {
+     "s": "circle",
+     "rot": 180,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 0,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 270,
+     "fill": "half"
+    }
+   ],
+   [
+    {
+     "s": "circle",
+     "rot": 90,
+     "fill": "half"
+    }
+   ]
+  ],
+  "correct_index": 3,
+  "explanation": "הצורה מסתובבת ב-90 מעלות עם כיוון השעון בכל צעד. לכן הצורה הבאה היא זו שממשיכה את השינוי צעד אחד נוסף.",
+  "source": "new",
+  "time_limit_seconds": 45
+ }
+]
