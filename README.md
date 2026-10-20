@@ -22,9 +22,16 @@
 4. להריץ את מיגרציית Supabase.
 5. לבדוק את האפליקציה בנייד ובמחשב לפי הרשימה ב-docs/05.
 
+## הרצה מקומית
+- npm install
+- npm run dev
+- npm test (Vitest למנוע), npm run build, npx playwright test (smoke)
+- node scripts/build-bank.mjs בונה מחדש את בנק השאלות ההתחלתי.
+
 ## מה עדיין פתוח
 
-- קישור "שיחת הפיתוח" ו"פרויקט המחקר": מוגדרים כערכים TBD בקובץ src/config/links.ts עד שיימסרו.
+- קישור "פרויקט המחקר": TBD בקובץ src/config/links.ts עד שיימסר.
+- הפעלת Google בפרויקט Supabase (Authentication, Providers), והוספת כתובת האפליקציה ל-Redirect URLs.
 - פרק האנגלית: לא מופיע בהנחיית המומחה. יש לבדוק מול הנוסח הרשמי של המבחן האם הוא כלול.
 - תאריך ושעת המבחן: לאמת מול הנוסח הרשמי.
 - יעד הציון: 90 כברירת מחדל.
