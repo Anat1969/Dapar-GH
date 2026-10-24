@@ -108,8 +108,6 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .btn-quiet { background: transparent; box-shadow: none; border-color: transparent; color: var(--muted); }
 .btn-lg { min-height: 54px; padding: 14px 28px; font-size: 1.1rem; border-radius: 14px; }
 .btn-sm { min-height: 36px; padding: 6px 12px; font-size: 0.9rem; }
-.btn-bar { min-height: 36px; padding: 6px 12px; font-size: 0.88rem; border-radius: 10px; }
-.btn-install { border-color: rgba(45, 212, 191, 0.6); background: linear-gradient(180deg, rgba(45, 212, 191, 0.25), rgba(45, 212, 191, 0.1)); }
 
 /* עמודים */
 main { position: relative; z-index: 1; }
@@ -435,8 +433,7 @@ a.card:hover { transform: translateY(-2px); }
 
 @media (max-width: 620px) {
   body { font-size: 16px; }
-  .topbar-row { grid-template-columns: minmax(0, 1fr); gap: 6px; padding: 8px 12px; }
-  .topbar-actions { justify-content: flex-start; }
+  .topbar-row { gap: 6px; padding: 8px 12px; }
   .topnav { padding: 0 12px 8px; }
   .page { padding: 18px 16px 70px; gap: 22px; }
   .hero { grid-template-columns: minmax(0, 1fr); justify-items: center; text-align: center; padding: 22px 16px; }
