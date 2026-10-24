@@ -34,7 +34,7 @@
 
 ## תפריט ניווט עליון (קבוע בכל הדפים, כולל דפים פנימיים ודיאלוגים)
 - שם האפליקציה "דפ"ר עילאי" הוא קישור לדף הבית.
-- כפתורים: "העתקת קישור" (מעתיק את הכתובת הנוכחית כולל נושא ותת-נושא), "שיחת הפיתוח" (קישור מ-src/config/links.ts), "פרויקט המחקר" (קישור מ-src/config/links.ts), "התקנת האפליקציה" (מוצג רק כש-Chrome מאפשר התקנה).
+- כפתור אחד: הלוגו A&I (`src/components/AIMenu.tsx`, `<ai-menu>`). בתוכו: "העתקת קישור" (מעתיק את הכתובת הנוכחית כולל נושא ותת-נושא), "שיחת הפיתוח" ו"פרויקט המחקר" (קישורים מ-src/config/links.ts), "התקנת האפליקציה", ו"יציאה".
 - הקישורים מוגדרים רק ב-src/config/links.ts. לא בקוד מפוזר.
 - דיאלוגים נפתחים מתחת לסרגל העליון, לא מעליו.
 
@@ -64,3 +64,6 @@ uipro init --ai claude
 
 ## תיקונים שנלמדו
 - 20.10.2026: ויזואליזציה והנפשה הן חלק מהמוצר, כדי לעורר עניין ורצון להמשיך להתאמן (מגדלי שליטה, טבעות זמן, משוב מונפש).
+
+## A&I logo button
+The top bar holds only the app name (links home), content navigation, and ONE logo button "אד' ענת שטיבלמן A&I" (`<ai-menu>` from https://appofapp-gh.vercel.app/ai-menu.js). Every editing and development action (העתקת קישור, שיחת הפיתוח, פרויקט המחקר, התקנת האפליקציה, edit mode, add, delete) lives only inside it, never as loose buttons. Standard: https://github.com/Anat1969/AppOfApp-GH/blob/main/docs/ai-menu-standard.md
